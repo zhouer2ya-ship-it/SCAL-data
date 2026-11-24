@@ -1,0 +1,1093 @@
+control,control_label,metric,contrast,sample_size,reference_cell,comparison_cell,error_floor,n_pairs,q25_log10_error_difference,median_log10_error_difference,q75_log10_error_difference
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,30,H_on_H,C_on_H,1e-20,100,-0.17821118975446837,0.019776937984618215,0.5737458041626522
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,31,H_on_H,C_on_H,1e-20,100,-0.18276259466907069,0.17428981839686153,0.62984269707419294
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,32,H_on_H,C_on_H,1e-20,100,-0.031532835012864024,0.23514272047391122,0.66524149536494659
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,33,H_on_H,C_on_H,1e-20,100,-0.089424978897208296,0.28361150908602584,0.65225700437015832
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,34,H_on_H,C_on_H,1e-20,100,-0.085622267266154184,0.1967169478616948,0.56349424910427082
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,35,H_on_H,C_on_H,1e-20,100,-0.10718454144815681,0.15914964978214263,0.56089781123592564
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,36,H_on_H,C_on_H,1e-20,100,-0.15379724473237738,0.091877838412695922,0.48881518639326649
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,37,H_on_H,C_on_H,1e-20,100,-0.34610001977214117,0.0046780019134244899,0.36939721068431136
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,38,H_on_H,C_on_H,1e-20,100,-0.2955958011261719,0.082447714307800291,0.3836281812523476
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,39,H_on_H,C_on_H,1e-20,100,-0.53940134436494225,-0.033108611198492954,0.47338854137354319
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,40,H_on_H,C_on_H,1e-20,100,-0.62964849560623093,-0.086883108292032274,0.38064229589062282
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,41,H_on_H,C_on_H,1e-20,100,-0.68476260797160471,-0.16801539366019425,0.27429446522997658
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,42,H_on_H,C_on_H,1e-20,100,-0.91614317278022606,-0.2908185733713643,0.15568815348558857
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,43,H_on_H,C_on_H,1e-20,100,-1.0547577686530618,-0.30386456655194005,0.16721164860282639
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,44,H_on_H,C_on_H,1e-20,100,-1.2157807439000186,-0.46986573363328321,-0.016374811296886338
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,45,H_on_H,C_on_H,1e-20,100,-1.4111123201893643,-0.59355609511450469,-0.10933720350525811
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,46,H_on_H,C_on_H,1e-20,100,-1.489211227562204,-0.92960449288371994,-0.088224026798335298
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,47,H_on_H,C_on_H,1e-20,100,-1.5388159746725456,-1.0281975972320345,-0.14040848996750521
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,48,H_on_H,C_on_H,1e-20,100,-1.6157559074167414,-0.87652856753015795,-0.20195459521569403
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,49,H_on_H,C_on_H,1e-20,100,-1.7348818311841236,-0.97360728202412483,-0.3591803663441081
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,50,H_on_H,C_on_H,1e-20,100,-1.7719104061684234,-1.1558935193884403,-0.49210317859133423
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,51,H_on_H,C_on_H,1e-20,100,-1.8465640702137733,-1.1486040698309263,-0.69214175457642568
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,52,H_on_H,C_on_H,1e-20,100,-1.9669345721611469,-1.296784936221929,-0.72538972290539749
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,53,H_on_H,C_on_H,1e-20,100,-1.8992995657216296,-1.3829823317195236,-0.5219160436378496
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,54,H_on_H,C_on_H,1e-20,100,-1.7830930270335659,-1.2246234359522594,-0.50342505796943748
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,55,H_on_H,C_on_H,1e-20,100,-1.8534129881521162,-1.3962128344585778,-0.68913679181342802
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,56,H_on_H,C_on_H,1e-20,100,-1.8955334961911023,-1.3206483871083188,-0.68527851168011034
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,57,H_on_H,C_on_H,1e-20,100,-1.821400327154207,-1.3178056481294327,-0.38379558824035542
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,58,H_on_H,C_on_H,1e-20,100,-1.945510547722602,-1.3608426179362256,-0.632889563524346
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,59,H_on_H,C_on_H,1e-20,100,-1.764195956049563,-1.3199794791770882,-0.37684009812655073
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,60,H_on_H,C_on_H,1e-20,100,-1.7301639431369915,-1.2410327225985562,-0.59969340833903118
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,61,H_on_H,C_on_H,1e-20,100,-1.7233199328961959,-1.2147114142875524,-0.60737869370595643
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,62,H_on_H,C_on_H,1e-20,100,-1.6067074105539201,-1.1582956475479187,-0.42790165241566691
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,63,H_on_H,C_on_H,1e-20,100,-1.621218343878928,-0.9779659922569548,-0.31076800585072606
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,64,H_on_H,C_on_H,1e-20,100,-1.6051955623944814,-0.93604174278335783,-0.29760723315244375
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,65,H_on_H,C_on_H,1e-20,100,-1.4561826242101668,-0.72565478055611177,-0.07461734542958709
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,66,H_on_H,C_on_H,1e-20,100,-1.3680726405638794,-0.46281406729954577,0.030311935568424042
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,67,H_on_H,C_on_H,1e-20,100,-1.1898483767408785,-0.64695738537139791,-0.053038775342973299
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,68,H_on_H,C_on_H,1e-20,100,-1.1439511010987093,-0.49524545807134457,0.00065382062156915666
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,69,H_on_H,C_on_H,1e-20,100,-1.0374998253982086,-0.44344117039228426,0.046639747113978336
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,70,H_on_H,C_on_H,1e-20,100,-1.0897064075620395,-0.53934986484783964,-0.049116978793489308
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,71,H_on_H,C_on_H,1e-20,100,-1.1640966595628939,-0.45843149654103854,-0.017714391481701508
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,72,H_on_H,C_on_H,1e-20,100,-1.1120850721564268,-0.41629094505639053,0.15808178566278541
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,73,H_on_H,C_on_H,1e-20,100,-1.1908834015493248,-0.42781710925821503,0.16645633653638936
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,74,H_on_H,C_on_H,1e-20,100,-0.83523434685718501,-0.32362235829604336,0.19600834932487254
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,75,H_on_H,C_on_H,1e-20,100,-0.74589555547193109,-0.30679881237749029,0.27115117569224512
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,76,H_on_H,C_on_H,1e-20,100,-0.84809291434620371,-0.31484523757984739,0.17837433801981417
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,77,H_on_H,C_on_H,1e-20,100,-0.72567196183119975,-0.25346937866330777,0.13188896302988939
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,78,H_on_H,C_on_H,1e-20,100,-0.75402116624121329,-0.26523985809429229,0.12374303398457065
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,79,H_on_H,C_on_H,1e-20,100,-0.76521325169517462,-0.28521238661813708,0.12627381509246982
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,80,H_on_H,C_on_H,1e-20,100,-0.77354694741525298,-0.34900067961716763,0.10293414683144753
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,81,H_on_H,C_on_H,1e-20,100,-0.76260584668916964,-0.300668095097127,0.11798689301965415
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,82,H_on_H,C_on_H,1e-20,100,-0.86588601384408848,-0.35711011092296641,0.088444279349797261
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,83,H_on_H,C_on_H,1e-20,100,-0.60294965349378726,-0.27773581720322005,0.21098000253016047
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,84,H_on_H,C_on_H,1e-20,100,-0.69896985131199441,-0.22315870901645729,0.14436297384267305
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,85,H_on_H,C_on_H,1e-20,100,-0.66020547346357428,-0.24247301773083585,0.1608339657193083
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,86,H_on_H,C_on_H,1e-20,100,-0.61437944122202426,-0.12829445921938198,0.17739610155977958
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,87,H_on_H,C_on_H,1e-20,100,-0.6277544347985371,-0.16772340309861589,0.12255983953251426
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,88,H_on_H,C_on_H,1e-20,100,-0.60313468451210372,-0.15368669530164869,0.13414276438379846
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,89,H_on_H,C_on_H,1e-20,100,-0.5874446139021321,-0.14628728559284543,0.11210874677656135
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,90,H_on_H,C_on_H,1e-20,100,-0.59587392129412242,-0.20276768497747399,0.10834797807971186
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,91,H_on_H,C_on_H,1e-20,100,-0.57956114589028696,-0.19255698561065282,0.17881060214009037
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,92,H_on_H,C_on_H,1e-20,100,-0.50202528140687019,-0.16399825256581479,0.16058307425111673
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,93,H_on_H,C_on_H,1e-20,100,-0.49896275828617798,-0.18249126017405182,0.15276032679039164
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,94,H_on_H,C_on_H,1e-20,100,-0.52819753487956023,-0.16990035536221848,0.18526083061722964
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,95,H_on_H,C_on_H,1e-20,100,-0.53724990659576699,-0.17569276978607862,0.22730834226538965
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,96,H_on_H,C_on_H,1e-20,100,-0.49228359668437283,-0.085647844029911546,0.18563046585292708
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,97,H_on_H,C_on_H,1e-20,100,-0.47236482101837418,-0.17317691383434708,0.21141458174704031
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,98,H_on_H,C_on_H,1e-20,100,-0.4391955753548682,-0.13879832157687089,0.1845297236340453
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,99,H_on_H,C_on_H,1e-20,100,-0.46992795857278646,-0.13171855803164689,0.1937338385924221
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,100,H_on_H,C_on_H,1e-20,100,-0.51021609446805649,-0.11875756445782937,0.14292009702857444
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,101,H_on_H,C_on_H,1e-20,100,-0.47808388260984591,-0.16105664530362995,0.11753232412669989
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,102,H_on_H,C_on_H,1e-20,100,-0.50317489939770188,-0.18491087878117884,0.073795341981462315
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,103,H_on_H,C_on_H,1e-20,100,-0.53589373316217248,-0.19860670495640953,0.086919350541083906
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,104,H_on_H,C_on_H,1e-20,100,-0.54117083656725118,-0.20424450037207009,0.14930550079997484
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,105,H_on_H,C_on_H,1e-20,100,-0.54078648586350453,-0.22606388214872997,0.13336124724320597
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,106,H_on_H,C_on_H,1e-20,100,-0.58966967445468299,-0.25310685374558561,0.15254947459198309
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,107,H_on_H,C_on_H,1e-20,100,-0.61718493754827475,-0.23484468230890831,0.044145339487473789
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,108,H_on_H,C_on_H,1e-20,100,-0.54002584745205318,-0.20176830925342637,0.037340445022210345
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,109,H_on_H,C_on_H,1e-20,100,-0.61449068528190964,-0.24063603831171765,0.027148913190024437
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,110,H_on_H,C_on_H,1e-20,100,-0.55630655694252362,-0.22255794690384434,0.060200299230320553
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,111,H_on_H,C_on_H,1e-20,100,-0.59938250902247825,-0.26348188620911817,0.13508082152248879
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,112,H_on_H,C_on_H,1e-20,100,-0.58777508075059437,-0.21230393432239936,0.031890240899826727
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,113,H_on_H,C_on_H,1e-20,100,-0.53978811764369583,-0.24715128129436925,0.097118991591019777
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,114,H_on_H,C_on_H,1e-20,100,-0.60226562694054908,-0.25084756373135431,0.15167003298393422
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,115,H_on_H,C_on_H,1e-20,100,-0.57181640384294563,-0.22728954358968956,0.20542325657566907
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,116,H_on_H,C_on_H,1e-20,100,-0.58074320476366426,-0.26435993642164268,0.18038454126415537
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,117,H_on_H,C_on_H,1e-20,100,-0.59637894838036898,-0.21638605195936345,0.19843208023961778
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,118,H_on_H,C_on_H,1e-20,100,-0.55741016647900743,-0.24882369495101742,0.11620281468217941
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,119,H_on_H,C_on_H,1e-20,100,-0.54230763264035442,-0.21304627026980194,0.08994199736990427
+NoHeredityModule,No structural constraints,mean_standardized_error,r_H,120,H_on_H,C_on_H,1e-20,100,-0.56237109640497218,-0.2263334286266443,0.16828837502171212
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,31,H_on_H,H_on_C,1e-20,100,-0.184255259835438,0,0.19172568482345301
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,32,H_on_H,H_on_C,1e-20,100,-0.32334121461493842,-0.0010078981894967032,0.21649873691174731
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,33,H_on_H,H_on_C,1e-20,100,-0.27738305500659111,-0.0075892598076664486,0.18230234232152226
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,34,H_on_H,H_on_C,1e-20,100,-0.29384738332199672,0.0047525840323856539,0.18646370459146294
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,35,H_on_H,H_on_C,1e-20,100,-0.26758037551041236,-0.037728806495119782,0.19916339864751603
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,36,H_on_H,H_on_C,1e-20,100,-0.36736754782434322,-0.051279763294283298,0.23509876635101257
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,37,H_on_H,H_on_C,1e-20,100,-0.41370871159974165,-0.095945345504511614,0.21825089162526629
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,38,H_on_H,H_on_C,1e-20,100,-0.34457259423210579,-0.066634858416618981,0.22039730552814879
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,39,H_on_H,H_on_C,1e-20,100,-0.42967939091277996,-0.056721129513524371,0.276138884298329
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,40,H_on_H,H_on_C,1e-20,100,-0.29144018068633726,-0.067143293365269807,0.36847915379781815
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,41,H_on_H,H_on_C,1e-20,100,-0.41165851897229083,-0.043840047889167177,0.28481345856015616
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,42,H_on_H,H_on_C,1e-20,100,-0.56246795881872513,-0.060198794927149857,0.27256753837628228
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,43,H_on_H,H_on_C,1e-20,100,-0.46715440160741639,-0.11622216634767701,0.20637255906946872
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,44,H_on_H,H_on_C,1e-20,100,-0.49199448785040822,-0.17118316353146534,0.14622044192046546
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,45,H_on_H,H_on_C,1e-20,100,-0.64600928391828027,-0.11119443065732548,0.17357131075045662
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,46,H_on_H,H_on_C,1e-20,100,-0.60122997284180768,-0.3068910210759952,0.086851025103281687
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,47,H_on_H,H_on_C,1e-20,100,-0.80907446735712185,-0.39330257824675607,0.037467313603495644
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,48,H_on_H,H_on_C,1e-20,100,-0.71887680778255447,-0.18985782830981202,0.27636648860704494
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,49,H_on_H,H_on_C,1e-20,100,-0.72218504806927242,-0.22856949889296674,0.40725365814230663
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,50,H_on_H,H_on_C,1e-20,100,-0.93170427669093436,-0.24843229293749447,0.31495965555995109
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,51,H_on_H,H_on_C,1e-20,100,-0.86156210189625815,-0.28183682703884294,0.3166655084981691
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,52,H_on_H,H_on_C,1e-20,100,-0.92247421682225794,-0.26413551654097511,0.33502427110079724
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,53,H_on_H,H_on_C,1e-20,100,-1.0965846541647588,-0.22148849277708105,0.24331681589089149
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,54,H_on_H,H_on_C,1e-20,100,-1.1046371386875391,-0.20830325803124627,0.30694219843007431
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,55,H_on_H,H_on_C,1e-20,100,-1.1334704923418095,-0.25153688567935228,0.28301203714028766
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,56,H_on_H,H_on_C,1e-20,100,-1.1325631786961896,-0.30938932505392458,0.28937003805344164
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,57,H_on_H,H_on_C,1e-20,100,-0.88464625261495999,-0.2543130799881268,0.55352463813726671
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,58,H_on_H,H_on_C,1e-20,100,-1.048911641315134,-0.19291840926620152,0.50384452188110829
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,59,H_on_H,H_on_C,1e-20,100,-0.9957047074224602,-0.087613981432759891,0.57609351820890009
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,60,H_on_H,H_on_C,1e-20,100,-0.95894798906480161,-0.18607592978248189,0.61968291029545419
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,61,H_on_H,H_on_C,1e-20,100,-1.0417087743763438,-0.17989918700766272,0.49232127610572407
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,62,H_on_H,H_on_C,1e-20,100,-1.0365629358764958,-0.16074018703325943,0.57358280078923052
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,63,H_on_H,H_on_C,1e-20,100,-1.0543209658494468,-0.25851413113684396,0.56611093957282499
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,64,H_on_H,H_on_C,1e-20,100,-1.0659402470237755,-0.33173520442552595,0.48534990403219891
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,65,H_on_H,H_on_C,1e-20,100,-1.0035773004136908,-0.19010873827782149,0.43236862674934029
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,66,H_on_H,H_on_C,1e-20,100,-0.88017470821557009,-0.20994220169759403,0.31961227862461938
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,67,H_on_H,H_on_C,1e-20,100,-0.85031747367589205,-0.15209692599285107,0.33255546467144903
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,68,H_on_H,H_on_C,1e-20,100,-0.86074587684053305,-0.07084989486570592,0.45114271313872512
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,69,H_on_H,H_on_C,1e-20,100,-0.87615900064358032,-0.035837482392115039,0.4252634343379289
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,70,H_on_H,H_on_C,1e-20,100,-0.84407751632343941,-0.10661450809626638,0.32637565068445862
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,71,H_on_H,H_on_C,1e-20,100,-0.77334654539968672,-0.08949068823030526,0.41152336630980857
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,72,H_on_H,H_on_C,1e-20,100,-0.69742393267682545,-0.023335833280446749,0.49262311454193597
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,73,H_on_H,H_on_C,1e-20,100,-0.4981740619713384,-0.029806995807413639,0.43571822628797996
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,74,H_on_H,H_on_C,1e-20,100,-0.43380767032939227,0.010775493432108263,0.47979175774043648
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,75,H_on_H,H_on_C,1e-20,100,-0.43657600603682156,-0.037005358872674865,0.44726123011312136
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,76,H_on_H,H_on_C,1e-20,100,-0.441448676010884,-0.078453005874676407,0.40362796239912169
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,77,H_on_H,H_on_C,1e-20,100,-0.38856078644741854,-0.043063610997087665,0.44079591724465583
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,78,H_on_H,H_on_C,1e-20,100,-0.53672464828308952,-0.036602348748121294,0.38757751698497045
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,79,H_on_H,H_on_C,1e-20,100,-0.4916597887295322,-0.057465460510178978,0.40604180870867257
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,80,H_on_H,H_on_C,1e-20,100,-0.43992885024083406,-0.024380193965403585,0.29845274850104508
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,81,H_on_H,H_on_C,1e-20,100,-0.35259510006436612,-0.050807492097473705,0.31559474721338199
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,82,H_on_H,H_on_C,1e-20,100,-0.45021177775465837,-0.088472039705451699,0.17123468275564258
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,83,H_on_H,H_on_C,1e-20,100,-0.35562256480368126,-0.086177776678310281,0.19450782399135758
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,84,H_on_H,H_on_C,1e-20,100,-0.33935526186817677,-0.072069835886082512,0.17038182346780451
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,85,H_on_H,H_on_C,1e-20,100,-0.36240606846899981,-0.10493314716654556,0.13396797379508185
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,86,H_on_H,H_on_C,1e-20,100,-0.44333690992868946,-0.075206776549267218,0.27793526070530361
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,87,H_on_H,H_on_C,1e-20,100,-0.31224009435945588,-0.023867689062769148,0.1925866317896856
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,88,H_on_H,H_on_C,1e-20,100,-0.25459151550087755,-0.017957273731576073,0.26081611990686993
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,89,H_on_H,H_on_C,1e-20,100,-0.23627597131967959,-0.017745058315738582,0.24913115197458358
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,90,H_on_H,H_on_C,1e-20,100,-0.22507964626175636,-0.00675422116065727,0.23182691784396625
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,91,H_on_H,H_on_C,1e-20,100,-0.26657887449910089,-0.0056635844968964122,0.29791990170341442
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,92,H_on_H,H_on_C,1e-20,100,-0.29616675460626141,-0.0091948939952022357,0.25909876673963095
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,93,H_on_H,H_on_C,1e-20,100,-0.30218563139124477,0.0094391849534845029,0.25476395145886688
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,94,H_on_H,H_on_C,1e-20,100,-0.31466132491366627,0.0044938223241195452,0.25515831808499789
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,95,H_on_H,H_on_C,1e-20,100,-0.31472771591560633,0.0028104524633674188,0.24612641957132708
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,96,H_on_H,H_on_C,1e-20,100,-0.31068504810812292,0.02233745504308704,0.23667436740135028
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,97,H_on_H,H_on_C,1e-20,100,-0.30497206413472022,0.0169485570477379,0.27668581522680125
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,98,H_on_H,H_on_C,1e-20,100,-0.28605423021024268,0.007849080726519464,0.26183484922767652
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,99,H_on_H,H_on_C,1e-20,100,-0.2847449284152852,0.012750471654575879,0.40850854420828542
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,100,H_on_H,H_on_C,1e-20,100,-0.28680260157616022,0.037008121087915846,0.40414704535281132
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,101,H_on_H,H_on_C,1e-20,100,-0.28470723497687156,0.010335576939456637,0.27380927053947413
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,102,H_on_H,H_on_C,1e-20,100,-0.22477520592171985,0.0028612529282998622,0.27780389877968581
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,103,H_on_H,H_on_C,1e-20,100,-0.26252759147061933,0.02408638026814236,0.2777966532590308
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,104,H_on_H,H_on_C,1e-20,100,-0.23092707012899361,0.020467117887457142,0.27942884393222966
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,105,H_on_H,H_on_C,1e-20,100,-0.23244153207604934,0.01066839063712921,0.28699516265002711
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,106,H_on_H,H_on_C,1e-20,100,-0.30735842369102917,0.007226197005245627,0.23842002117623462
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,107,H_on_H,H_on_C,1e-20,100,-0.25874641316009006,0.032242025513427031,0.27706503268537452
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,108,H_on_H,H_on_C,1e-20,100,-0.20350440846816231,0.036539840675906543,0.27114368973374314
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,109,H_on_H,H_on_C,1e-20,100,-0.19933279817842364,0.041591914093380478,0.29653629859591368
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,110,H_on_H,H_on_C,1e-20,100,-0.20699906233493914,0.019789365077194088,0.29369133841089168
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,111,H_on_H,H_on_C,1e-20,100,-0.17028490584864797,0.0071687433815950108,0.28869609063195356
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,112,H_on_H,H_on_C,1e-20,100,-0.18858242447112805,0.01868155994771481,0.32358166298547197
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,113,H_on_H,H_on_C,1e-20,100,-0.1745377078082655,0.035890318570872992,0.37139480782258505
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,114,H_on_H,H_on_C,1e-20,100,-0.21607569656193082,0.032897252985184533,0.39391639339760509
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,115,H_on_H,H_on_C,1e-20,100,-0.27631538960763535,0.019070341285694958,0.42065263445800327
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,116,H_on_H,H_on_C,1e-20,100,-0.20732003190913684,0.039600625213362051,0.46279220816391042
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,117,H_on_H,H_on_C,1e-20,100,-0.18733388665504735,0.039534970584814477,0.48391436281872724
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,118,H_on_H,H_on_C,1e-20,100,-0.19117282635324195,0.04046229901983267,0.45016697825243979
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,119,H_on_H,H_on_C,1e-20,100,-0.20346954967891029,0.035109905598094127,0.46405710351230378
+NoHeredityModule,No structural constraints,mean_standardized_error,d_H,120,H_on_H,H_on_C,1e-20,100,-0.23469967391529711,0.052449627539845167,0.39524870551257818
+NoHeredityModule,No structural constraints,std_relative_error,r_H,30,H_on_H,C_on_H,1e-20,100,-0.7487838985365074,-0.31209336223847628,0.47065275828308195
+NoHeredityModule,No structural constraints,std_relative_error,r_H,31,H_on_H,C_on_H,1e-20,100,-0.56322741300350199,0.0013812582555353947,0.67664092987475988
+NoHeredityModule,No structural constraints,std_relative_error,r_H,32,H_on_H,C_on_H,1e-20,100,-0.32295503917484597,0.33756107336244501,0.76578344681770161
+NoHeredityModule,No structural constraints,std_relative_error,r_H,33,H_on_H,C_on_H,1e-20,100,-0.14707206200464729,0.32599323787612833,0.88516464810809015
+NoHeredityModule,No structural constraints,std_relative_error,r_H,34,H_on_H,C_on_H,1e-20,100,-0.069989506947447377,0.34976482792258407,0.79951979360702374
+NoHeredityModule,No structural constraints,std_relative_error,r_H,35,H_on_H,C_on_H,1e-20,100,-0.129306147848815,0.3008089692901682,0.79305258983469784
+NoHeredityModule,No structural constraints,std_relative_error,r_H,36,H_on_H,C_on_H,1e-20,100,-0.29616024095222854,0.085064152957113781,0.59648715949988607
+NoHeredityModule,No structural constraints,std_relative_error,r_H,37,H_on_H,C_on_H,1e-20,100,-0.24562834429885932,0.050489072265938018,0.65876639969929573
+NoHeredityModule,No structural constraints,std_relative_error,r_H,38,H_on_H,C_on_H,1e-20,100,-0.44753528671419568,-0.026959249055259704,0.54946855556848073
+NoHeredityModule,No structural constraints,std_relative_error,r_H,39,H_on_H,C_on_H,1e-20,100,-0.6546770919936995,-0.035445395961256287,0.38268307687746062
+NoHeredityModule,No structural constraints,std_relative_error,r_H,40,H_on_H,C_on_H,1e-20,100,-0.58772930188959782,-0.17210773492499976,0.48317226059225998
+NoHeredityModule,No structural constraints,std_relative_error,r_H,41,H_on_H,C_on_H,1e-20,100,-0.73605953289165016,-0.14776462335844676,0.37097277788181549
+NoHeredityModule,No structural constraints,std_relative_error,r_H,42,H_on_H,C_on_H,1e-20,100,-0.74789224704260926,-0.30672935989265815,0.24214229408967791
+NoHeredityModule,No structural constraints,std_relative_error,r_H,43,H_on_H,C_on_H,1e-20,100,-1.1225799123104954,-0.40892134164639571,0.18454332185458139
+NoHeredityModule,No structural constraints,std_relative_error,r_H,44,H_on_H,C_on_H,1e-20,100,-1.4202076867874001,-0.67435125316446654,0.018418850223550054
+NoHeredityModule,No structural constraints,std_relative_error,r_H,45,H_on_H,C_on_H,1e-20,100,-1.5802094266028381,-0.83081721597019031,-0.24095114564843367
+NoHeredityModule,No structural constraints,std_relative_error,r_H,46,H_on_H,C_on_H,1e-20,100,-1.4353653114270322,-0.8872547911472678,-0.18645874601792117
+NoHeredityModule,No structural constraints,std_relative_error,r_H,47,H_on_H,C_on_H,1e-20,100,-1.7496743041959348,-1.0699560524593912,-0.21807325480401052
+NoHeredityModule,No structural constraints,std_relative_error,r_H,48,H_on_H,C_on_H,1e-20,100,-1.6534419257164519,-0.97773070366889359,-0.3006171451787728
+NoHeredityModule,No structural constraints,std_relative_error,r_H,49,H_on_H,C_on_H,1e-20,100,-1.5566342777936368,-0.90148727640133619,-0.20197954004986995
+NoHeredityModule,No structural constraints,std_relative_error,r_H,50,H_on_H,C_on_H,1e-20,100,-1.8170813503665784,-1.1255425873674962,-0.43984006611177728
+NoHeredityModule,No structural constraints,std_relative_error,r_H,51,H_on_H,C_on_H,1e-20,100,-1.8587353560332007,-1.233800392882449,-0.53935497600525328
+NoHeredityModule,No structural constraints,std_relative_error,r_H,52,H_on_H,C_on_H,1e-20,100,-2.1314149438269521,-1.2549489757147514,-0.67589315436287822
+NoHeredityModule,No structural constraints,std_relative_error,r_H,53,H_on_H,C_on_H,1e-20,100,-2.0058765332832809,-1.1800580199560338,-0.73175569796753781
+NoHeredityModule,No structural constraints,std_relative_error,r_H,54,H_on_H,C_on_H,1e-20,100,-1.9377380425440764,-1.2014684980770025,-0.64907430540970901
+NoHeredityModule,No structural constraints,std_relative_error,r_H,55,H_on_H,C_on_H,1e-20,100,-2.123680270694611,-1.3614182626571731,-0.78631761987407967
+NoHeredityModule,No structural constraints,std_relative_error,r_H,56,H_on_H,C_on_H,1e-20,100,-2.1474666687750177,-1.2679455618497639,-0.49495599049879735
+NoHeredityModule,No structural constraints,std_relative_error,r_H,57,H_on_H,C_on_H,1e-20,100,-2.1507790805395972,-1.4707267807077593,-0.38162234250646809
+NoHeredityModule,No structural constraints,std_relative_error,r_H,58,H_on_H,C_on_H,1e-20,100,-2.0748016093644885,-1.4262113915556593,-0.68739470758714216
+NoHeredityModule,No structural constraints,std_relative_error,r_H,59,H_on_H,C_on_H,1e-20,100,-2.0814136750292325,-1.2268272322514642,-0.34345050261711885
+NoHeredityModule,No structural constraints,std_relative_error,r_H,60,H_on_H,C_on_H,1e-20,100,-1.879845189229352,-1.261487694850675,-0.48249847594217865
+NoHeredityModule,No structural constraints,std_relative_error,r_H,61,H_on_H,C_on_H,1e-20,100,-1.8659209027524968,-1.1366520434514449,-0.44530261803934823
+NoHeredityModule,No structural constraints,std_relative_error,r_H,62,H_on_H,C_on_H,1e-20,100,-1.763939641783477,-1.0137241843986731,-0.24640482375441453
+NoHeredityModule,No structural constraints,std_relative_error,r_H,63,H_on_H,C_on_H,1e-20,100,-1.7019782104051009,-0.9783525346814721,-0.24471679891280185
+NoHeredityModule,No structural constraints,std_relative_error,r_H,64,H_on_H,C_on_H,1e-20,100,-1.6199668050224134,-0.93124775016983241,-0.20350736211313936
+NoHeredityModule,No structural constraints,std_relative_error,r_H,65,H_on_H,C_on_H,1e-20,100,-1.4663342194118312,-0.72495762793113538,-0.069622485558169744
+NoHeredityModule,No structural constraints,std_relative_error,r_H,66,H_on_H,C_on_H,1e-20,100,-1.4230633234023116,-0.50728525762501864,-0.021414205559371347
+NoHeredityModule,No structural constraints,std_relative_error,r_H,67,H_on_H,C_on_H,1e-20,100,-1.2121439911813539,-0.47217543937272843,-0.085658109908897107
+NoHeredityModule,No structural constraints,std_relative_error,r_H,68,H_on_H,C_on_H,1e-20,100,-1.2209596767683126,-0.50670233419322752,-0.03051811745237698
+NoHeredityModule,No structural constraints,std_relative_error,r_H,69,H_on_H,C_on_H,1e-20,100,-1.1960199834088439,-0.43103880669610239,0.012358606630703761
+NoHeredityModule,No structural constraints,std_relative_error,r_H,70,H_on_H,C_on_H,1e-20,100,-1.1376913399834396,-0.3597190964047754,0.028272405657185029
+NoHeredityModule,No structural constraints,std_relative_error,r_H,71,H_on_H,C_on_H,1e-20,100,-0.87434677004998584,-0.33852736884678247,0.13294006055042451
+NoHeredityModule,No structural constraints,std_relative_error,r_H,72,H_on_H,C_on_H,1e-20,100,-0.94480429099451912,-0.2167311954348885,0.050467045039704228
+NoHeredityModule,No structural constraints,std_relative_error,r_H,73,H_on_H,C_on_H,1e-20,100,-0.66505054033717914,-0.14190521803670553,0.094956054985467997
+NoHeredityModule,No structural constraints,std_relative_error,r_H,74,H_on_H,C_on_H,1e-20,100,-0.60921025714639709,-0.078840252144428025,0.13981261342128448
+NoHeredityModule,No structural constraints,std_relative_error,r_H,75,H_on_H,C_on_H,1e-20,100,-0.55567640940512031,-0.078634294845347341,0.094661880017737676
+NoHeredityModule,No structural constraints,std_relative_error,r_H,76,H_on_H,C_on_H,1e-20,100,-0.60614584086882783,-0.089497392749814164,0.088272385154447353
+NoHeredityModule,No structural constraints,std_relative_error,r_H,77,H_on_H,C_on_H,1e-20,100,-0.55849403839192924,-0.10992571626347836,0.086068673107317917
+NoHeredityModule,No structural constraints,std_relative_error,r_H,78,H_on_H,C_on_H,1e-20,100,-0.59032596219779365,-0.083376056610656057,0.10614284017066744
+NoHeredityModule,No structural constraints,std_relative_error,r_H,79,H_on_H,C_on_H,1e-20,100,-0.60239669197940349,-0.12802039186727443,0.064441320985917594
+NoHeredityModule,No structural constraints,std_relative_error,r_H,80,H_on_H,C_on_H,1e-20,100,-0.56278804008547212,-0.085105214286743003,0.047947286125964439
+NoHeredityModule,No structural constraints,std_relative_error,r_H,81,H_on_H,C_on_H,1e-20,100,-0.55546985005266802,-0.075944559744383078,0.06748668143731984
+NoHeredityModule,No structural constraints,std_relative_error,r_H,82,H_on_H,C_on_H,1e-20,100,-0.58931357149801089,-0.084903761807336497,0.083577006792904696
+NoHeredityModule,No structural constraints,std_relative_error,r_H,83,H_on_H,C_on_H,1e-20,100,-0.39814061002512457,-0.068656575136490705,0.088834224434255704
+NoHeredityModule,No structural constraints,std_relative_error,r_H,84,H_on_H,C_on_H,1e-20,100,-0.32659757707057335,-0.065055358922294637,0.21111164371882341
+NoHeredityModule,No structural constraints,std_relative_error,r_H,85,H_on_H,C_on_H,1e-20,100,-0.2873266425294394,-0.053808675012279927,0.2355813316653701
+NoHeredityModule,No structural constraints,std_relative_error,r_H,86,H_on_H,C_on_H,1e-20,100,-0.30581736664600023,-0.040007051609341815,0.18479552209640904
+NoHeredityModule,No structural constraints,std_relative_error,r_H,87,H_on_H,C_on_H,1e-20,100,-0.37918876921323363,-0.022031110927886566,0.19751796085564965
+NoHeredityModule,No structural constraints,std_relative_error,r_H,88,H_on_H,C_on_H,1e-20,100,-0.36401548583914156,-0.012831323557348728,0.19489921601044746
+NoHeredityModule,No structural constraints,std_relative_error,r_H,89,H_on_H,C_on_H,1e-20,100,-0.35487843764460014,-0.019137481843889415,0.16362632948994826
+NoHeredityModule,No structural constraints,std_relative_error,r_H,90,H_on_H,C_on_H,1e-20,100,-0.28788037606649897,-0.0073912435860479242,0.18057320219796402
+NoHeredityModule,No structural constraints,std_relative_error,r_H,91,H_on_H,C_on_H,1e-20,100,-0.26345584661048349,-0.0047698764290733386,0.17627785735862744
+NoHeredityModule,No structural constraints,std_relative_error,r_H,92,H_on_H,C_on_H,1e-20,100,-0.22658934026902999,-0.0082152247764710751,0.1432426282310717
+NoHeredityModule,No structural constraints,std_relative_error,r_H,93,H_on_H,C_on_H,1e-20,100,-0.21537690281387012,-0.0047461570035371992,0.19051398717016776
+NoHeredityModule,No structural constraints,std_relative_error,r_H,94,H_on_H,C_on_H,1e-20,100,-0.12897041999554593,0.011651058562405225,0.21983507418527348
+NoHeredityModule,No structural constraints,std_relative_error,r_H,95,H_on_H,C_on_H,1e-20,100,-0.097642569241121802,-0.0063396246767886133,0.17905696278143513
+NoHeredityModule,No structural constraints,std_relative_error,r_H,96,H_on_H,C_on_H,1e-20,100,-0.16637077340618078,0.012740851337830428,0.14240695203144771
+NoHeredityModule,No structural constraints,std_relative_error,r_H,97,H_on_H,C_on_H,1e-20,100,-0.16274947032098042,-0.0013196163488342627,0.22814627742066884
+NoHeredityModule,No structural constraints,std_relative_error,r_H,98,H_on_H,C_on_H,1e-20,100,-0.14639276860710448,0.0069618289468675876,0.23099979838096552
+NoHeredityModule,No structural constraints,std_relative_error,r_H,99,H_on_H,C_on_H,1e-20,100,-0.17652168538003465,0.013896834272949299,0.24777463906527042
+NoHeredityModule,No structural constraints,std_relative_error,r_H,100,H_on_H,C_on_H,1e-20,100,-0.1597455050150538,0.0092837764610633755,0.23115365316502401
+NoHeredityModule,No structural constraints,std_relative_error,r_H,101,H_on_H,C_on_H,1e-20,100,-0.16620036473344779,0.0027509632115099159,0.13998882722721517
+NoHeredityModule,No structural constraints,std_relative_error,r_H,102,H_on_H,C_on_H,1e-20,100,-0.19504205998714719,0.0016303456462840593,0.15377858774662845
+NoHeredityModule,No structural constraints,std_relative_error,r_H,103,H_on_H,C_on_H,1e-20,100,-0.17828359946147576,-0.0017168912813545489,0.20312978477179988
+NoHeredityModule,No structural constraints,std_relative_error,r_H,104,H_on_H,C_on_H,1e-20,100,-0.14086852811801243,0.023944477646275608,0.21450688695780129
+NoHeredityModule,No structural constraints,std_relative_error,r_H,105,H_on_H,C_on_H,1e-20,100,-0.087637056142729763,0.022316568211815824,0.22667138017478194
+NoHeredityModule,No structural constraints,std_relative_error,r_H,106,H_on_H,C_on_H,1e-20,100,-0.092913423340819756,0.0247251932679311,0.23670393182021843
+NoHeredityModule,No structural constraints,std_relative_error,r_H,107,H_on_H,C_on_H,1e-20,100,-0.085080928837614422,0.022248323109736567,0.21455016908681435
+NoHeredityModule,No structural constraints,std_relative_error,r_H,108,H_on_H,C_on_H,1e-20,100,-0.102906653211428,0.011008547089891074,0.20496586136059558
+NoHeredityModule,No structural constraints,std_relative_error,r_H,109,H_on_H,C_on_H,1e-20,100,-0.062051671832072275,0.01212209006003917,0.20658902113057453
+NoHeredityModule,No structural constraints,std_relative_error,r_H,110,H_on_H,C_on_H,1e-20,100,-0.079965916427767514,0.0083288315393632573,0.19790452012902349
+NoHeredityModule,No structural constraints,std_relative_error,r_H,111,H_on_H,C_on_H,1e-20,100,-0.070832135466428525,0.0062786921149702302,0.22498342973385332
+NoHeredityModule,No structural constraints,std_relative_error,r_H,112,H_on_H,C_on_H,1e-20,100,-0.085700328381524749,0.0055812016049143764,0.1764145763688485
+NoHeredityModule,No structural constraints,std_relative_error,r_H,113,H_on_H,C_on_H,1e-20,100,-0.094942119863351548,0.0041856385628951109,0.09856833338749027
+NoHeredityModule,No structural constraints,std_relative_error,r_H,114,H_on_H,C_on_H,1e-20,100,-0.10301901658181567,-0.0053561916828646083,0.10275368952383634
+NoHeredityModule,No structural constraints,std_relative_error,r_H,115,H_on_H,C_on_H,1e-20,100,-0.092865689432993559,-0.0069079396332649701,0.10278617042886773
+NoHeredityModule,No structural constraints,std_relative_error,r_H,116,H_on_H,C_on_H,1e-20,100,-0.063271860878355346,0.0084411569444555745,0.19259079070117702
+NoHeredityModule,No structural constraints,std_relative_error,r_H,117,H_on_H,C_on_H,1e-20,100,-0.057683662806246039,0.0027203013747376659,0.15776226027447415
+NoHeredityModule,No structural constraints,std_relative_error,r_H,118,H_on_H,C_on_H,1e-20,100,-0.056072357807309681,0.013794237608111715,0.20238422813057322
+NoHeredityModule,No structural constraints,std_relative_error,r_H,119,H_on_H,C_on_H,1e-20,100,-0.075715916222313995,0.0089910403723632015,0.11541961334835804
+NoHeredityModule,No structural constraints,std_relative_error,r_H,120,H_on_H,C_on_H,1e-20,100,-0.080355220118786708,0.0055432291214292384,0.075183304257978811
+NoHeredityModule,No structural constraints,std_relative_error,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHeredityModule,No structural constraints,std_relative_error,d_H,31,H_on_H,H_on_C,1e-20,100,-0.063247550149664766,0,0.06715304780222181
+NoHeredityModule,No structural constraints,std_relative_error,d_H,32,H_on_H,H_on_C,1e-20,100,-0.079744425680789932,0,0.2613597488887609
+NoHeredityModule,No structural constraints,std_relative_error,d_H,33,H_on_H,H_on_C,1e-20,100,-0.27792894132525853,0,0.26829639139400252
+NoHeredityModule,No structural constraints,std_relative_error,d_H,34,H_on_H,H_on_C,1e-20,100,-0.43543549868388948,-0.0080561159737323473,0.31043691005823565
+NoHeredityModule,No structural constraints,std_relative_error,d_H,35,H_on_H,H_on_C,1e-20,100,-0.41734136211598094,0,0.43942535526354698
+NoHeredityModule,No structural constraints,std_relative_error,d_H,36,H_on_H,H_on_C,1e-20,100,-0.43600868507140866,-0.00025940057805295957,0.4685959605535025
+NoHeredityModule,No structural constraints,std_relative_error,d_H,37,H_on_H,H_on_C,1e-20,100,-0.43975319570555499,-0.088487341536601427,0.38738253129894962
+NoHeredityModule,No structural constraints,std_relative_error,d_H,38,H_on_H,H_on_C,1e-20,100,-0.32481192625069544,0.0067571032396209763,0.33553178655264154
+NoHeredityModule,No structural constraints,std_relative_error,d_H,39,H_on_H,H_on_C,1e-20,100,-0.60567052736893578,-0.10713296637154734,0.23110066745860997
+NoHeredityModule,No structural constraints,std_relative_error,d_H,40,H_on_H,H_on_C,1e-20,100,-0.55225684393533303,-0.090416981525161533,0.36549317277718602
+NoHeredityModule,No structural constraints,std_relative_error,d_H,41,H_on_H,H_on_C,1e-20,100,-0.55897375389162485,0.010254007190125147,0.33161947024981947
+NoHeredityModule,No structural constraints,std_relative_error,d_H,42,H_on_H,H_on_C,1e-20,100,-0.67175733251897496,0.005296411593247341,0.27207315611483129
+NoHeredityModule,No structural constraints,std_relative_error,d_H,43,H_on_H,H_on_C,1e-20,100,-0.72063213319055608,-0.045242909297584233,0.40050854046104423
+NoHeredityModule,No structural constraints,std_relative_error,d_H,44,H_on_H,H_on_C,1e-20,100,-0.75468623027265336,-0.36855288607665782,0.18345431814279256
+NoHeredityModule,No structural constraints,std_relative_error,d_H,45,H_on_H,H_on_C,1e-20,100,-0.76675728390525677,-0.34792998277351173,0.20757886153756616
+NoHeredityModule,No structural constraints,std_relative_error,d_H,46,H_on_H,H_on_C,1e-20,100,-0.79021752923954225,-0.32642670679352692,0.1023700867351528
+NoHeredityModule,No structural constraints,std_relative_error,d_H,47,H_on_H,H_on_C,1e-20,100,-0.87362995955670364,-0.24609036424761976,0.14016598410901504
+NoHeredityModule,No structural constraints,std_relative_error,d_H,48,H_on_H,H_on_C,1e-20,100,-0.62521999876806944,-0.13922720419685164,0.21939324065201982
+NoHeredityModule,No structural constraints,std_relative_error,d_H,49,H_on_H,H_on_C,1e-20,100,-0.62708104253877284,-0.14032870860345992,0.19755927851838662
+NoHeredityModule,No structural constraints,std_relative_error,d_H,50,H_on_H,H_on_C,1e-20,100,-0.73890296777435993,-0.18595125240882826,0.15298890403879084
+NoHeredityModule,No structural constraints,std_relative_error,d_H,51,H_on_H,H_on_C,1e-20,100,-0.81392317593589869,-0.18605834592763726,0.2324837602400639
+NoHeredityModule,No structural constraints,std_relative_error,d_H,52,H_on_H,H_on_C,1e-20,100,-0.86484745591876411,-0.23357659785630269,0.3279059635009387
+NoHeredityModule,No structural constraints,std_relative_error,d_H,53,H_on_H,H_on_C,1e-20,100,-0.65651443769547713,-0.14924610899059942,0.3331238457608553
+NoHeredityModule,No structural constraints,std_relative_error,d_H,54,H_on_H,H_on_C,1e-20,100,-0.87479601826657905,-0.16756602945944898,0.41813876326071209
+NoHeredityModule,No structural constraints,std_relative_error,d_H,55,H_on_H,H_on_C,1e-20,100,-1.0774595170017764,-0.19476641025582575,0.3240628733850005
+NoHeredityModule,No structural constraints,std_relative_error,d_H,56,H_on_H,H_on_C,1e-20,100,-0.97003893794266194,-0.20675620787786975,0.32250587175053824
+NoHeredityModule,No structural constraints,std_relative_error,d_H,57,H_on_H,H_on_C,1e-20,100,-0.90576424611100836,-0.1348793655981988,0.60488075603183422
+NoHeredityModule,No structural constraints,std_relative_error,d_H,58,H_on_H,H_on_C,1e-20,100,-0.77943057339501975,-0.20848857962871037,0.52295547966989242
+NoHeredityModule,No structural constraints,std_relative_error,d_H,59,H_on_H,H_on_C,1e-20,100,-0.99049322767154568,-0.23808540608816386,0.27299573014614864
+NoHeredityModule,No structural constraints,std_relative_error,d_H,60,H_on_H,H_on_C,1e-20,100,-0.82088397763221088,-0.33336958199274935,0.30515033517305934
+NoHeredityModule,No structural constraints,std_relative_error,d_H,61,H_on_H,H_on_C,1e-20,100,-1.1389295419287924,-0.40262751022616428,0.39265772022397227
+NoHeredityModule,No structural constraints,std_relative_error,d_H,62,H_on_H,H_on_C,1e-20,100,-1.1280761473817753,-0.28299171662369815,0.32685647525116723
+NoHeredityModule,No structural constraints,std_relative_error,d_H,63,H_on_H,H_on_C,1e-20,100,-1.0989212826611841,-0.31871661166979726,0.3763353903663027
+NoHeredityModule,No structural constraints,std_relative_error,d_H,64,H_on_H,H_on_C,1e-20,100,-0.9282735218739091,-0.27164241117693466,0.36094513998759647
+NoHeredityModule,No structural constraints,std_relative_error,d_H,65,H_on_H,H_on_C,1e-20,100,-0.95265211636685454,-0.15688891188714482,0.49526351657310963
+NoHeredityModule,No structural constraints,std_relative_error,d_H,66,H_on_H,H_on_C,1e-20,100,-0.79835769848866678,-0.053223094945204386,0.38895109869146249
+NoHeredityModule,No structural constraints,std_relative_error,d_H,67,H_on_H,H_on_C,1e-20,100,-0.70303554428846993,-0.018535869216055323,0.44859087430611932
+NoHeredityModule,No structural constraints,std_relative_error,d_H,68,H_on_H,H_on_C,1e-20,100,-0.72246282119106253,-0.012039488916916863,0.46130525301765468
+NoHeredityModule,No structural constraints,std_relative_error,d_H,69,H_on_H,H_on_C,1e-20,100,-0.72836499675503608,-0.011059308821314229,0.60024702902223281
+NoHeredityModule,No structural constraints,std_relative_error,d_H,70,H_on_H,H_on_C,1e-20,100,-0.69224303811637977,-0.06558403620776021,0.54195384849315587
+NoHeredityModule,No structural constraints,std_relative_error,d_H,71,H_on_H,H_on_C,1e-20,100,-0.66078892017760738,0.0020036608845557247,0.40195402773574984
+NoHeredityModule,No structural constraints,std_relative_error,d_H,72,H_on_H,H_on_C,1e-20,100,-0.56376999693771923,-0.016708415891817374,0.37504203941608338
+NoHeredityModule,No structural constraints,std_relative_error,d_H,73,H_on_H,H_on_C,1e-20,100,-0.50281783351482923,-0.054083360353254673,0.44146695896712518
+NoHeredityModule,No structural constraints,std_relative_error,d_H,74,H_on_H,H_on_C,1e-20,100,-0.50848861094291964,-0.028355528152130827,0.41469563313848035
+NoHeredityModule,No structural constraints,std_relative_error,d_H,75,H_on_H,H_on_C,1e-20,100,-0.39039075824140634,0.10280895693344472,0.47553850024762512
+NoHeredityModule,No structural constraints,std_relative_error,d_H,76,H_on_H,H_on_C,1e-20,100,-0.38775936927482491,0.05049012986705792,0.39847178845488784
+NoHeredityModule,No structural constraints,std_relative_error,d_H,77,H_on_H,H_on_C,1e-20,100,-0.4190856556178244,0.019943979480693041,0.39296709014903186
+NoHeredityModule,No structural constraints,std_relative_error,d_H,78,H_on_H,H_on_C,1e-20,100,-0.40154592133229228,0.047917998321202582,0.33966667485601576
+NoHeredityModule,No structural constraints,std_relative_error,d_H,79,H_on_H,H_on_C,1e-20,100,-0.25884953846593706,0.055200111081481928,0.37419743460301347
+NoHeredityModule,No structural constraints,std_relative_error,d_H,80,H_on_H,H_on_C,1e-20,100,-0.27126881965585969,0.072478316498465478,0.31778513243221918
+NoHeredityModule,No structural constraints,std_relative_error,d_H,81,H_on_H,H_on_C,1e-20,100,-0.32409709435256384,-0.010995045619641708,0.34054064869034995
+NoHeredityModule,No structural constraints,std_relative_error,d_H,82,H_on_H,H_on_C,1e-20,100,-0.32933949130535467,0.020575802165581969,0.20077070516331297
+NoHeredityModule,No structural constraints,std_relative_error,d_H,83,H_on_H,H_on_C,1e-20,100,-0.27132163597969949,0.019889981747809315,0.30162556064458657
+NoHeredityModule,No structural constraints,std_relative_error,d_H,84,H_on_H,H_on_C,1e-20,100,-0.27506419451155795,0.023153972279336799,0.34879781537496957
+NoHeredityModule,No structural constraints,std_relative_error,d_H,85,H_on_H,H_on_C,1e-20,100,-0.24116351429010674,-0.0025733308697724055,0.2899597347932692
+NoHeredityModule,No structural constraints,std_relative_error,d_H,86,H_on_H,H_on_C,1e-20,100,-0.25338381818374534,0.018813495597877594,0.40032422425509329
+NoHeredityModule,No structural constraints,std_relative_error,d_H,87,H_on_H,H_on_C,1e-20,100,-0.30692296149673703,0.0052141910685596926,0.44256014825036649
+NoHeredityModule,No structural constraints,std_relative_error,d_H,88,H_on_H,H_on_C,1e-20,100,-0.27190964404047557,0.039348912915641243,0.48788686288009231
+NoHeredityModule,No structural constraints,std_relative_error,d_H,89,H_on_H,H_on_C,1e-20,100,-0.26575909599766412,-0.014774900181511619,0.40629312860316014
+NoHeredityModule,No structural constraints,std_relative_error,d_H,90,H_on_H,H_on_C,1e-20,100,-0.32350281143528181,0.010671772634768928,0.34527717663413404
+NoHeredityModule,No structural constraints,std_relative_error,d_H,91,H_on_H,H_on_C,1e-20,100,-0.28241137354639823,0.042968026616669874,0.35181797522450475
+NoHeredityModule,No structural constraints,std_relative_error,d_H,92,H_on_H,H_on_C,1e-20,100,-0.25213889125331579,0.034833971479713011,0.43790120560777424
+NoHeredityModule,No structural constraints,std_relative_error,d_H,93,H_on_H,H_on_C,1e-20,100,-0.19348808385583305,0.05704601280772037,0.46734275538053027
+NoHeredityModule,No structural constraints,std_relative_error,d_H,94,H_on_H,H_on_C,1e-20,100,-0.24510484563652102,0.064650446603855105,0.49333325775740722
+NoHeredityModule,No structural constraints,std_relative_error,d_H,95,H_on_H,H_on_C,1e-20,100,-0.20394574722261183,0.058113990371874369,0.49399362318342988
+NoHeredityModule,No structural constraints,std_relative_error,d_H,96,H_on_H,H_on_C,1e-20,100,-0.20207383280853919,0.066384638044328259,0.33452184911846095
+NoHeredityModule,No structural constraints,std_relative_error,d_H,97,H_on_H,H_on_C,1e-20,100,-0.17029357480544371,0.030060611865147191,0.32089676036146875
+NoHeredityModule,No structural constraints,std_relative_error,d_H,98,H_on_H,H_on_C,1e-20,100,-0.17257061470834123,0.037298176521219251,0.39609950528455129
+NoHeredityModule,No structural constraints,std_relative_error,d_H,99,H_on_H,H_on_C,1e-20,100,-0.19600807311670487,-0.0040955179761263949,0.43025968597743014
+NoHeredityModule,No structural constraints,std_relative_error,d_H,100,H_on_H,H_on_C,1e-20,100,-0.17675214193147171,0.043670583419868514,0.33490152856634658
+NoHeredityModule,No structural constraints,std_relative_error,d_H,101,H_on_H,H_on_C,1e-20,100,-0.29451892601640983,0.0068853583869610269,0.444903721071503
+NoHeredityModule,No structural constraints,std_relative_error,d_H,102,H_on_H,H_on_C,1e-20,100,-0.26202523614388218,0.02142169156368201,0.45708976397658563
+NoHeredityModule,No structural constraints,std_relative_error,d_H,103,H_on_H,H_on_C,1e-20,100,-0.21662502710481402,0.050577815777447466,0.40132769860141249
+NoHeredityModule,No structural constraints,std_relative_error,d_H,104,H_on_H,H_on_C,1e-20,100,-0.2526457724446507,0.026157235922550814,0.36922865344396349
+NoHeredityModule,No structural constraints,std_relative_error,d_H,105,H_on_H,H_on_C,1e-20,100,-0.27173500949256968,0.054019943120710234,0.34832913580117908
+NoHeredityModule,No structural constraints,std_relative_error,d_H,106,H_on_H,H_on_C,1e-20,100,-0.29024012933931664,0.023309790964017196,0.34907869717045292
+NoHeredityModule,No structural constraints,std_relative_error,d_H,107,H_on_H,H_on_C,1e-20,100,-0.32216147157912722,0.01997267457437335,0.33814886149545886
+NoHeredityModule,No structural constraints,std_relative_error,d_H,108,H_on_H,H_on_C,1e-20,100,-0.32896858718541067,0.028496985557554311,0.37199519050130747
+NoHeredityModule,No structural constraints,std_relative_error,d_H,109,H_on_H,H_on_C,1e-20,100,-0.33329517995146118,0.046788459599417465,0.38374971703874472
+NoHeredityModule,No structural constraints,std_relative_error,d_H,110,H_on_H,H_on_C,1e-20,100,-0.3599987536962217,0.032208698766533317,0.38888480240633916
+NoHeredityModule,No structural constraints,std_relative_error,d_H,111,H_on_H,H_on_C,1e-20,100,-0.33287537477519291,0.047404638266804078,0.29199461863688358
+NoHeredityModule,No structural constraints,std_relative_error,d_H,112,H_on_H,H_on_C,1e-20,100,-0.34456754900639752,0.01050774595333559,0.33302230983752579
+NoHeredityModule,No structural constraints,std_relative_error,d_H,113,H_on_H,H_on_C,1e-20,100,-0.39520389016890367,-0.039388685780918031,0.2669653461945416
+NoHeredityModule,No structural constraints,std_relative_error,d_H,114,H_on_H,H_on_C,1e-20,100,-0.37277003143773868,-0.094692355802073358,0.19983214462385002
+NoHeredityModule,No structural constraints,std_relative_error,d_H,115,H_on_H,H_on_C,1e-20,100,-0.34775430575416566,-0.018895457809555261,0.21705773769231995
+NoHeredityModule,No structural constraints,std_relative_error,d_H,116,H_on_H,H_on_C,1e-20,100,-0.48575537952664716,0.027311771583545585,0.18978342730371489
+NoHeredityModule,No structural constraints,std_relative_error,d_H,117,H_on_H,H_on_C,1e-20,100,-0.42135454865132393,0.056075031072403192,0.3016158055286664
+NoHeredityModule,No structural constraints,std_relative_error,d_H,118,H_on_H,H_on_C,1e-20,100,-0.39192785692791077,0.017656090137311953,0.31922449481265547
+NoHeredityModule,No structural constraints,std_relative_error,d_H,119,H_on_H,H_on_C,1e-20,100,-0.39444991172533017,-0.038660310517436791,0.23124359799230709
+NoHeredityModule,No structural constraints,std_relative_error,d_H,120,H_on_H,H_on_C,1e-20,100,-0.38649073898766662,-0.011723838192912339,0.33889174200674743
+NoHeredityModule,No structural constraints,relmse,r_H,30,H_on_H,C_on_H,1e-20,100,0,0.16059233354950192,0.5281039303883821
+NoHeredityModule,No structural constraints,relmse,r_H,31,H_on_H,C_on_H,1e-20,100,0,0.21104070787342977,0.99125232505853789
+NoHeredityModule,No structural constraints,relmse,r_H,32,H_on_H,C_on_H,1e-20,100,0.10495742429395977,0.38326775621745379,1.0148458799432467
+NoHeredityModule,No structural constraints,relmse,r_H,33,H_on_H,C_on_H,1e-20,100,0.024045652905703097,0.38954153938200642,0.81009330884917374
+NoHeredityModule,No structural constraints,relmse,r_H,34,H_on_H,C_on_H,1e-20,100,0.050701640079901883,0.38890214966787673,0.83873209194729292
+NoHeredityModule,No structural constraints,relmse,r_H,35,H_on_H,C_on_H,1e-20,100,-0.0013383877159411917,0.21535522274842428,0.51313490345130908
+NoHeredityModule,No structural constraints,relmse,r_H,36,H_on_H,C_on_H,1e-20,100,-0.050965655426744472,0.1628457242640674,0.51887792188601234
+NoHeredityModule,No structural constraints,relmse,r_H,37,H_on_H,C_on_H,1e-20,100,-0.24508630624989686,0.1299977841896115,0.40610965143225847
+NoHeredityModule,No structural constraints,relmse,r_H,38,H_on_H,C_on_H,1e-20,100,-0.3207447953256608,0.039708637443511607,0.34373594965201909
+NoHeredityModule,No structural constraints,relmse,r_H,39,H_on_H,C_on_H,1e-20,100,-0.50860099430779537,-0.03368077277574133,0.25934085612473645
+NoHeredityModule,No structural constraints,relmse,r_H,40,H_on_H,C_on_H,1e-20,100,-0.73563283727874396,-0.12104550732758745,0.23012654833276258
+NoHeredityModule,No structural constraints,relmse,r_H,41,H_on_H,C_on_H,1e-20,100,-1.2140062093560808,-0.3194888287962967,0.12060452979955372
+NoHeredityModule,No structural constraints,relmse,r_H,42,H_on_H,C_on_H,1e-20,100,-1.3569598094565072,-0.55035852898559134,0.018020362770124643
+NoHeredityModule,No structural constraints,relmse,r_H,43,H_on_H,C_on_H,1e-20,100,-1.9919262899635413,-0.84645435049085238,-0.10222517595171354
+NoHeredityModule,No structural constraints,relmse,r_H,44,H_on_H,C_on_H,1e-20,100,-2.1638642663032543,-1.1443036099085551,-0.32284527040755845
+NoHeredityModule,No structural constraints,relmse,r_H,45,H_on_H,C_on_H,1e-20,100,-2.3554648820545472,-1.5505420435354691,-0.81739246500056273
+NoHeredityModule,No structural constraints,relmse,r_H,46,H_on_H,C_on_H,1e-20,100,-2.4435990658585465,-1.8382211090648513,-0.97265635049012067
+NoHeredityModule,No structural constraints,relmse,r_H,47,H_on_H,C_on_H,1e-20,100,-2.8978620547305098,-1.9550959666389676,-1.0201189934618711
+NoHeredityModule,No structural constraints,relmse,r_H,48,H_on_H,C_on_H,1e-20,100,-2.9879210433342411,-1.8841112319220579,-0.89769273746832301
+NoHeredityModule,No structural constraints,relmse,r_H,49,H_on_H,C_on_H,1e-20,100,-2.8509410601090712,-1.9052543354013975,-1.0060164552158626
+NoHeredityModule,No structural constraints,relmse,r_H,50,H_on_H,C_on_H,1e-20,100,-3.505512138037052,-2.1997030357013339,-1.0669790585901582
+NoHeredityModule,No structural constraints,relmse,r_H,51,H_on_H,C_on_H,1e-20,100,-3.5796538797978839,-2.3888066303411533,-1.4189431219873483
+NoHeredityModule,No structural constraints,relmse,r_H,52,H_on_H,C_on_H,1e-20,100,-3.5901272333057479,-2.4502350082405324,-1.7253197739371715
+NoHeredityModule,No structural constraints,relmse,r_H,53,H_on_H,C_on_H,1e-20,100,-3.7201325059544934,-2.6998371274782813,-1.6545213262687255
+NoHeredityModule,No structural constraints,relmse,r_H,54,H_on_H,C_on_H,1e-20,100,-3.6684862482880778,-2.6723879002361368,-1.7033993089458439
+NoHeredityModule,No structural constraints,relmse,r_H,55,H_on_H,C_on_H,1e-20,100,-3.6174858694125613,-2.8308546143769409,-1.7722404648595043
+NoHeredityModule,No structural constraints,relmse,r_H,56,H_on_H,C_on_H,1e-20,100,-3.6156734197535974,-2.7435972485401123,-1.7002866817414497
+NoHeredityModule,No structural constraints,relmse,r_H,57,H_on_H,C_on_H,1e-20,100,-3.6468782922413281,-2.682109055521035,-1.3940699008282713
+NoHeredityModule,No structural constraints,relmse,r_H,58,H_on_H,C_on_H,1e-20,100,-3.6271041548532548,-2.6586771394754996,-1.3631047670993872
+NoHeredityModule,No structural constraints,relmse,r_H,59,H_on_H,C_on_H,1e-20,100,-3.5199893907539241,-2.3886298263394332,-1.2341907746005694
+NoHeredityModule,No structural constraints,relmse,r_H,60,H_on_H,C_on_H,1e-20,100,-3.5133762973584197,-2.3699637354765932,-1.2234371752780016
+NoHeredityModule,No structural constraints,relmse,r_H,61,H_on_H,C_on_H,1e-20,100,-3.4771938863157339,-2.338135036433012,-1.0716404869381502
+NoHeredityModule,No structural constraints,relmse,r_H,62,H_on_H,C_on_H,1e-20,100,-3.3952037376434676,-2.314118903994999,-0.88193757725557886
+NoHeredityModule,No structural constraints,relmse,r_H,63,H_on_H,C_on_H,1e-20,100,-3.0738403746011218,-2.1724445018019107,-0.78380256244258195
+NoHeredityModule,No structural constraints,relmse,r_H,64,H_on_H,C_on_H,1e-20,100,-2.822442998780287,-2.092119558426305,-0.73108476097463004
+NoHeredityModule,No structural constraints,relmse,r_H,65,H_on_H,C_on_H,1e-20,100,-2.6607964745856885,-1.681299133606545,-0.65894083913652435
+NoHeredityModule,No structural constraints,relmse,r_H,66,H_on_H,C_on_H,1e-20,100,-2.5222746269038865,-1.0535709257945172,-0.35709668729882171
+NoHeredityModule,No structural constraints,relmse,r_H,67,H_on_H,C_on_H,1e-20,100,-2.4431696694850404,-0.9897206711826847,-0.25922903976385969
+NoHeredityModule,No structural constraints,relmse,r_H,68,H_on_H,C_on_H,1e-20,100,-2.2674555296006615,-0.82180425118782052,-0.10864251602602204
+NoHeredityModule,No structural constraints,relmse,r_H,69,H_on_H,C_on_H,1e-20,100,-2.0784370024970049,-0.7979931152548736,-0.056293360061502318
+NoHeredityModule,No structural constraints,relmse,r_H,70,H_on_H,C_on_H,1e-20,100,-1.9894449916773995,-0.76213118861755413,-0.017354258597889416
+NoHeredityModule,No structural constraints,relmse,r_H,71,H_on_H,C_on_H,1e-20,100,-1.7329982757826852,-0.75533228344865355,-0.000980191263446617
+NoHeredityModule,No structural constraints,relmse,r_H,72,H_on_H,C_on_H,1e-20,100,-1.2822177355712145,-0.71940621776551872,-0.011423558916803689
+NoHeredityModule,No structural constraints,relmse,r_H,73,H_on_H,C_on_H,1e-20,100,-1.099946043349648,-0.5751523573156585,0.018537977693462215
+NoHeredityModule,No structural constraints,relmse,r_H,74,H_on_H,C_on_H,1e-20,100,-0.9908801573746735,-0.21924938997646182,0.02066131779543956
+NoHeredityModule,No structural constraints,relmse,r_H,75,H_on_H,C_on_H,1e-20,100,-0.87710698337359361,-0.096986102274129404,0.040577968922580032
+NoHeredityModule,No structural constraints,relmse,r_H,76,H_on_H,C_on_H,1e-20,100,-0.92439655832744561,-0.061019100474382082,0.031237485343061477
+NoHeredityModule,No structural constraints,relmse,r_H,77,H_on_H,C_on_H,1e-20,100,-0.81839883648038647,-0.053558639583905165,0.036361414991128438
+NoHeredityModule,No structural constraints,relmse,r_H,78,H_on_H,C_on_H,1e-20,100,-0.82859681356484782,-0.040985220247657494,0.030059577568447127
+NoHeredityModule,No structural constraints,relmse,r_H,79,H_on_H,C_on_H,1e-20,100,-0.81006796197747577,-0.033881609690455505,0.021969118437926705
+NoHeredityModule,No structural constraints,relmse,r_H,80,H_on_H,C_on_H,1e-20,100,-0.69042017875974016,-0.021759591071061735,0.042981151093869796
+NoHeredityModule,No structural constraints,relmse,r_H,81,H_on_H,C_on_H,1e-20,100,-0.67726093767392337,-0.017461122132780282,0.050986455228940741
+NoHeredityModule,No structural constraints,relmse,r_H,82,H_on_H,C_on_H,1e-20,100,-0.70650738850669526,-0.018235592551216318,0.058310989929365231
+NoHeredityModule,No structural constraints,relmse,r_H,83,H_on_H,C_on_H,1e-20,100,-0.18682363648305222,-0.012308292587647429,0.059173694451677195
+NoHeredityModule,No structural constraints,relmse,r_H,84,H_on_H,C_on_H,1e-20,100,-0.21326745762139865,-0.011140812449270676,0.053227491662106052
+NoHeredityModule,No structural constraints,relmse,r_H,85,H_on_H,C_on_H,1e-20,100,-0.1125599304989382,-0.010865435485110986,0.055729781895039743
+NoHeredityModule,No structural constraints,relmse,r_H,86,H_on_H,C_on_H,1e-20,100,-0.067511127166141494,-0.010177349227617594,0.053686688826294571
+NoHeredityModule,No structural constraints,relmse,r_H,87,H_on_H,C_on_H,1e-20,100,-0.062796225212831569,-0.0074234913687050152,0.047146980435018415
+NoHeredityModule,No structural constraints,relmse,r_H,88,H_on_H,C_on_H,1e-20,100,-0.061628292307995824,-0.0061637624064969643,0.047471688431686365
+NoHeredityModule,No structural constraints,relmse,r_H,89,H_on_H,C_on_H,1e-20,100,-0.043835236685205281,-0.0047884652334113653,0.05921731139795039
+NoHeredityModule,No structural constraints,relmse,r_H,90,H_on_H,C_on_H,1e-20,100,-0.039007568339276544,-0.0040363254693418504,0.065999477146754915
+NoHeredityModule,No structural constraints,relmse,r_H,91,H_on_H,C_on_H,1e-20,100,-0.033799561851235227,-0.0027573383722949707,0.061934782998158244
+NoHeredityModule,No structural constraints,relmse,r_H,92,H_on_H,C_on_H,1e-20,100,-0.033947734970147581,-0.0040111357033496553,0.045571689580354402
+NoHeredityModule,No structural constraints,relmse,r_H,93,H_on_H,C_on_H,1e-20,100,-0.025886536628408674,-0.0025556253220364589,0.046506515355253741
+NoHeredityModule,No structural constraints,relmse,r_H,94,H_on_H,C_on_H,1e-20,100,-0.021879256049742057,0.0036297345231486311,0.051322074587995425
+NoHeredityModule,No structural constraints,relmse,r_H,95,H_on_H,C_on_H,1e-20,100,-0.022466236808869944,0.0036757510198501819,0.058685662184512655
+NoHeredityModule,No structural constraints,relmse,r_H,96,H_on_H,C_on_H,1e-20,100,-0.030088096635517259,0.0031766740990200049,0.047713640182470041
+NoHeredityModule,No structural constraints,relmse,r_H,97,H_on_H,C_on_H,1e-20,100,-0.032087902614569064,0.0036905310117019141,0.045315742379121282
+NoHeredityModule,No structural constraints,relmse,r_H,98,H_on_H,C_on_H,1e-20,100,-0.02607793440346029,0.0012950607934998359,0.057196873509855362
+NoHeredityModule,No structural constraints,relmse,r_H,99,H_on_H,C_on_H,1e-20,100,-0.021325547502325959,0.0016327242746028148,0.06059430316687231
+NoHeredityModule,No structural constraints,relmse,r_H,100,H_on_H,C_on_H,1e-20,100,-0.019974346905708984,0.0014785897404459014,0.05486135391903435
+NoHeredityModule,No structural constraints,relmse,r_H,101,H_on_H,C_on_H,1e-20,100,-0.020298341778276496,0.0028588586660784898,0.07024329465710677
+NoHeredityModule,No structural constraints,relmse,r_H,102,H_on_H,C_on_H,1e-20,100,-0.022023251128044263,0.0036234053844745873,0.071290221290770006
+NoHeredityModule,No structural constraints,relmse,r_H,103,H_on_H,C_on_H,1e-20,100,-0.022649692748573536,0.0024486645804495666,0.070161800231042237
+NoHeredityModule,No structural constraints,relmse,r_H,104,H_on_H,C_on_H,1e-20,100,-0.022302024792831388,0.0036993086319379032,0.08856079699235675
+NoHeredityModule,No structural constraints,relmse,r_H,105,H_on_H,C_on_H,1e-20,100,-0.019918890001747513,0.0046511554559138801,0.074242937033295098
+NoHeredityModule,No structural constraints,relmse,r_H,106,H_on_H,C_on_H,1e-20,100,-0.018819932100151204,0.0060205446142727048,0.07506801045829814
+NoHeredityModule,No structural constraints,relmse,r_H,107,H_on_H,C_on_H,1e-20,100,-0.018823108749753459,-0.00091961055102895983,0.054443546309945301
+NoHeredityModule,No structural constraints,relmse,r_H,108,H_on_H,C_on_H,1e-20,100,-0.019544873120466821,0.00025119383143223928,0.053803184905792278
+NoHeredityModule,No structural constraints,relmse,r_H,109,H_on_H,C_on_H,1e-20,100,-0.021787047541174775,-0.003100088204779361,0.056654379688118484
+NoHeredityModule,No structural constraints,relmse,r_H,110,H_on_H,C_on_H,1e-20,100,-0.02114669439907324,0.0025101538079894681,0.057231410741550137
+NoHeredityModule,No structural constraints,relmse,r_H,111,H_on_H,C_on_H,1e-20,100,-0.017728966084119779,0.0026811542919586984,0.061956982655628767
+NoHeredityModule,No structural constraints,relmse,r_H,112,H_on_H,C_on_H,1e-20,100,-0.017697379749107345,0.0038498785848903871,0.056218520073519018
+NoHeredityModule,No structural constraints,relmse,r_H,113,H_on_H,C_on_H,1e-20,100,-0.017493480540720974,0.0045116581688153801,0.051999327495233283
+NoHeredityModule,No structural constraints,relmse,r_H,114,H_on_H,C_on_H,1e-20,100,-0.018014514787052294,0.0046428960733453373,0.049861883683074426
+NoHeredityModule,No structural constraints,relmse,r_H,115,H_on_H,C_on_H,1e-20,100,-0.016930617179343077,0.0025299282971547044,0.053463579167003505
+NoHeredityModule,No structural constraints,relmse,r_H,116,H_on_H,C_on_H,1e-20,100,-0.014806534943776484,0.0080654120493477421,0.055610216999613993
+NoHeredityModule,No structural constraints,relmse,r_H,117,H_on_H,C_on_H,1e-20,100,-0.017532618449191961,0.0023195183730129187,0.053142357182541344
+NoHeredityModule,No structural constraints,relmse,r_H,118,H_on_H,C_on_H,1e-20,100,-0.017680361489152752,0.00056227273398334887,0.047376937628346383
+NoHeredityModule,No structural constraints,relmse,r_H,119,H_on_H,C_on_H,1e-20,100,-0.017004043152363479,0.0008723377253261333,0.048940734546188747
+NoHeredityModule,No structural constraints,relmse,r_H,120,H_on_H,C_on_H,1e-20,100,-0.016683012017554066,0.0012666773632856732,0.055361328999969706
+NoHeredityModule,No structural constraints,relmse,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHeredityModule,No structural constraints,relmse,d_H,31,H_on_H,H_on_C,1e-20,100,-0.013533666410077916,0,0.012857809157108158
+NoHeredityModule,No structural constraints,relmse,d_H,32,H_on_H,H_on_C,1e-20,100,-0.026120429078781704,0,0.034157700887046671
+NoHeredityModule,No structural constraints,relmse,d_H,33,H_on_H,H_on_C,1e-20,100,-0.04722494677211031,0,0.051401148133232211
+NoHeredityModule,No structural constraints,relmse,d_H,34,H_on_H,H_on_C,1e-20,100,-0.063686430499880098,0.0013114924590399424,0.052780226701224342
+NoHeredityModule,No structural constraints,relmse,d_H,35,H_on_H,H_on_C,1e-20,100,-0.11040512925937984,-0.0062512038026957262,0.047822791082243965
+NoHeredityModule,No structural constraints,relmse,d_H,36,H_on_H,H_on_C,1e-20,100,-0.14236065797372188,-0.0083059294612194412,0.043893101968439707
+NoHeredityModule,No structural constraints,relmse,d_H,37,H_on_H,H_on_C,1e-20,100,-0.12906423292106733,-0.010478246645059364,0.048776403506782973
+NoHeredityModule,No structural constraints,relmse,d_H,38,H_on_H,H_on_C,1e-20,100,-0.10190849662791518,-0.0064385582845487566,0.087860744509839883
+NoHeredityModule,No structural constraints,relmse,d_H,39,H_on_H,H_on_C,1e-20,100,-0.52091421105750912,-0.017266840632496172,0.074071037312263388
+NoHeredityModule,No structural constraints,relmse,d_H,40,H_on_H,H_on_C,1e-20,100,-0.68659845276193032,-0.0025144055143555555,0.12525220611734572
+NoHeredityModule,No structural constraints,relmse,d_H,41,H_on_H,H_on_C,1e-20,100,-0.57829575523808319,-0.014719060532316197,0.1100739772130484
+NoHeredityModule,No structural constraints,relmse,d_H,42,H_on_H,H_on_C,1e-20,100,-0.8306629956621665,-0.089363869602310353,0.086491166664730279
+NoHeredityModule,No structural constraints,relmse,d_H,43,H_on_H,H_on_C,1e-20,100,-1.1173545430144571,-0.085581870096592016,0.097400575833849312
+NoHeredityModule,No structural constraints,relmse,d_H,44,H_on_H,H_on_C,1e-20,100,-1.054319642225868,-0.14950585513857106,0.077108933417385561
+NoHeredityModule,No structural constraints,relmse,d_H,45,H_on_H,H_on_C,1e-20,100,-1.1657324295279439,-0.2600644965985861,0.042700199441710551
+NoHeredityModule,No structural constraints,relmse,d_H,46,H_on_H,H_on_C,1e-20,100,-1.2151300691741362,-0.29042165765702199,0.042463381121403021
+NoHeredityModule,No structural constraints,relmse,d_H,47,H_on_H,H_on_C,1e-20,100,-1.3214240133802537,-0.32034318090812453,0.019551542389994903
+NoHeredityModule,No structural constraints,relmse,d_H,48,H_on_H,H_on_C,1e-20,100,-0.95564354662134521,-0.12409339871114056,0.093994628571088423
+NoHeredityModule,No structural constraints,relmse,d_H,49,H_on_H,H_on_C,1e-20,100,-0.90970654707855436,-0.1178608249741111,0.094968259902573404
+NoHeredityModule,No structural constraints,relmse,d_H,50,H_on_H,H_on_C,1e-20,100,-1.0768856806097951,-0.12653703502029923,0.063847118537584735
+NoHeredityModule,No structural constraints,relmse,d_H,51,H_on_H,H_on_C,1e-20,100,-1.0436052777628411,-0.065387856772951336,0.1073754470882633
+NoHeredityModule,No structural constraints,relmse,d_H,52,H_on_H,H_on_C,1e-20,100,-1.2587294580228847,-0.072771959101739503,0.16643434045583072
+NoHeredityModule,No structural constraints,relmse,d_H,53,H_on_H,H_on_C,1e-20,100,-1.1688347563178909,-0.08765813800809763,0.088934085163815846
+NoHeredityModule,No structural constraints,relmse,d_H,54,H_on_H,H_on_C,1e-20,100,-1.2847072397140247,-0.089860807910800089,0.12372454914568165
+NoHeredityModule,No structural constraints,relmse,d_H,55,H_on_H,H_on_C,1e-20,100,-1.3420552857180268,-0.13571466561967815,0.077391543534282792
+NoHeredityModule,No structural constraints,relmse,d_H,56,H_on_H,H_on_C,1e-20,100,-1.4334116118484819,-0.14915768862265888,0.14809119670363702
+NoHeredityModule,No structural constraints,relmse,d_H,57,H_on_H,H_on_C,1e-20,100,-1.3685320074989333,-0.071695277706218308,0.35346041697894659
+NoHeredityModule,No structural constraints,relmse,d_H,58,H_on_H,H_on_C,1e-20,100,-1.3214303696180865,-0.13306813299648446,0.89374510571959553
+NoHeredityModule,No structural constraints,relmse,d_H,59,H_on_H,H_on_C,1e-20,100,-1.4854916843900237,-0.43512722735638953,0.81790189728529294
+NoHeredityModule,No structural constraints,relmse,d_H,60,H_on_H,H_on_C,1e-20,100,-1.6585766400358617,-0.25223386780523782,0.25887661310427079
+NoHeredityModule,No structural constraints,relmse,d_H,61,H_on_H,H_on_C,1e-20,100,-1.8522124559748898,-0.37202721142185258,0.29961382617227605
+NoHeredityModule,No structural constraints,relmse,d_H,62,H_on_H,H_on_C,1e-20,100,-1.6285124990174309,-0.1847889881376652,0.37402367876173903
+NoHeredityModule,No structural constraints,relmse,d_H,63,H_on_H,H_on_C,1e-20,100,-1.7729309983937749,-0.37708951977181471,0.40058238622440512
+NoHeredityModule,No structural constraints,relmse,d_H,64,H_on_H,H_on_C,1e-20,100,-1.8496498567023463,-0.33610664426620307,0.25282345394568795
+NoHeredityModule,No structural constraints,relmse,d_H,65,H_on_H,H_on_C,1e-20,100,-1.7859658722578429,-0.23018608877898528,0.22393011988576195
+NoHeredityModule,No structural constraints,relmse,d_H,66,H_on_H,H_on_C,1e-20,100,-1.6713087987476789,-0.09946180551162298,0.28895754787191197
+NoHeredityModule,No structural constraints,relmse,d_H,67,H_on_H,H_on_C,1e-20,100,-1.5330378890195691,-0.11707571320843257,0.57836563590034129
+NoHeredityModule,No structural constraints,relmse,d_H,68,H_on_H,H_on_C,1e-20,100,-1.3150833279694232,-0.056419281681865385,0.55054739386182927
+NoHeredityModule,No structural constraints,relmse,d_H,69,H_on_H,H_on_C,1e-20,100,-1.2063980259724998,-0.095427835063548461,0.53841574121573044
+NoHeredityModule,No structural constraints,relmse,d_H,70,H_on_H,H_on_C,1e-20,100,-1.2532341507232772,-0.10605921856406342,0.19439272376516126
+NoHeredityModule,No structural constraints,relmse,d_H,71,H_on_H,H_on_C,1e-20,100,-0.95940091815571815,-0.059086748345827722,0.60795006971727639
+NoHeredityModule,No structural constraints,relmse,d_H,72,H_on_H,H_on_C,1e-20,100,-0.86196758806361728,-0.030677979329462701,0.71811465162972654
+NoHeredityModule,No structural constraints,relmse,d_H,73,H_on_H,H_on_C,1e-20,100,-0.76629928622490651,-0.0070132501798898517,0.70549470121220192
+NoHeredityModule,No structural constraints,relmse,d_H,74,H_on_H,H_on_C,1e-20,100,-0.72650805516256622,-0.021682671218190563,0.37830353934919092
+NoHeredityModule,No structural constraints,relmse,d_H,75,H_on_H,H_on_C,1e-20,100,-0.69955978232838723,-0.013614641302689634,0.3166391217116431
+NoHeredityModule,No structural constraints,relmse,d_H,76,H_on_H,H_on_C,1e-20,100,-0.68203172541736334,-0.001410980176423049,0.21877584680488771
+NoHeredityModule,No structural constraints,relmse,d_H,77,H_on_H,H_on_C,1e-20,100,-0.64448587698736182,-0.0042519177362003724,0.3192502545293574
+NoHeredityModule,No structural constraints,relmse,d_H,78,H_on_H,H_on_C,1e-20,100,-0.36989443586891957,-0.024003983456895028,0.20868852346358469
+NoHeredityModule,No structural constraints,relmse,d_H,79,H_on_H,H_on_C,1e-20,100,-0.22820380184642808,-0.023955347733771504,0.15651318722882679
+NoHeredityModule,No structural constraints,relmse,d_H,80,H_on_H,H_on_C,1e-20,100,-0.098019712564282546,-0.0083593951495450902,0.2112557514682234
+NoHeredityModule,No structural constraints,relmse,d_H,81,H_on_H,H_on_C,1e-20,100,-0.099537433422813848,-0.016351084683579042,0.15303339403135707
+NoHeredityModule,No structural constraints,relmse,d_H,82,H_on_H,H_on_C,1e-20,100,-0.11645279376242823,-0.015953188227773918,0.11542710102880327
+NoHeredityModule,No structural constraints,relmse,d_H,83,H_on_H,H_on_C,1e-20,100,-0.1120954594381276,-0.0082147131098064818,0.10308181593639465
+NoHeredityModule,No structural constraints,relmse,d_H,84,H_on_H,H_on_C,1e-20,100,-0.11478060084300834,-0.014838169517699562,0.099625697947009595
+NoHeredityModule,No structural constraints,relmse,d_H,85,H_on_H,H_on_C,1e-20,100,-0.094943796825558202,-0.015149937616607545,0.094642458324116774
+NoHeredityModule,No structural constraints,relmse,d_H,86,H_on_H,H_on_C,1e-20,100,-0.091660336916696172,-0.013513615074051355,0.10920936193709707
+NoHeredityModule,No structural constraints,relmse,d_H,87,H_on_H,H_on_C,1e-20,100,-0.078371400999778018,-0.013140940838626491,0.094611364437757306
+NoHeredityModule,No structural constraints,relmse,d_H,88,H_on_H,H_on_C,1e-20,100,-0.081354309212873233,-0.0020309284258415161,0.087179480799594256
+NoHeredityModule,No structural constraints,relmse,d_H,89,H_on_H,H_on_C,1e-20,100,-0.083273828772190583,0.0088804422963697505,0.088529926242547186
+NoHeredityModule,No structural constraints,relmse,d_H,90,H_on_H,H_on_C,1e-20,100,-0.077106043941124636,0.0099445880846298351,0.091402262703145443
+NoHeredityModule,No structural constraints,relmse,d_H,91,H_on_H,H_on_C,1e-20,100,-0.080714894821778183,0.0027253020893152069,0.087287921489250575
+NoHeredityModule,No structural constraints,relmse,d_H,92,H_on_H,H_on_C,1e-20,100,-0.080268187489551224,0.010206339893265692,0.084707603734601955
+NoHeredityModule,No structural constraints,relmse,d_H,93,H_on_H,H_on_C,1e-20,100,-0.079318945499741167,0.0084283924022550138,0.093031142581315063
+NoHeredityModule,No structural constraints,relmse,d_H,94,H_on_H,H_on_C,1e-20,100,-0.062388547108544357,0.014409737460093552,0.095013708507379668
+NoHeredityModule,No structural constraints,relmse,d_H,95,H_on_H,H_on_C,1e-20,100,-0.064119411365743728,0.01285083132848408,0.097256132828023922
+NoHeredityModule,No structural constraints,relmse,d_H,96,H_on_H,H_on_C,1e-20,100,-0.061873812428045571,0.015339300883280504,0.093351602023691971
+NoHeredityModule,No structural constraints,relmse,d_H,97,H_on_H,H_on_C,1e-20,100,-0.060714918050888134,0.013528001214154095,0.087024253943554841
+NoHeredityModule,No structural constraints,relmse,d_H,98,H_on_H,H_on_C,1e-20,100,-0.067299131391247435,0.012675144133218907,0.091424000197160682
+NoHeredityModule,No structural constraints,relmse,d_H,99,H_on_H,H_on_C,1e-20,100,-0.061049508998428648,0.0059536304931535611,0.0899309287351715
+NoHeredityModule,No structural constraints,relmse,d_H,100,H_on_H,H_on_C,1e-20,100,-0.053305995046866839,0.0081169157690457183,0.086667535291503617
+NoHeredityModule,No structural constraints,relmse,d_H,101,H_on_H,H_on_C,1e-20,100,-0.048157555351791892,0.016972586150254099,0.092500058822432063
+NoHeredityModule,No structural constraints,relmse,d_H,102,H_on_H,H_on_C,1e-20,100,-0.041209617873588789,0.012390817160469858,0.089930205735545554
+NoHeredityModule,No structural constraints,relmse,d_H,103,H_on_H,H_on_C,1e-20,100,-0.034967598535851074,0.012819367805712467,0.091638741817683389
+NoHeredityModule,No structural constraints,relmse,d_H,104,H_on_H,H_on_C,1e-20,100,-0.036239976213134018,0.015609186213188408,0.088265679625398441
+NoHeredityModule,No structural constraints,relmse,d_H,105,H_on_H,H_on_C,1e-20,100,-0.039357519016408826,0.020261688405350142,0.092206460706416582
+NoHeredityModule,No structural constraints,relmse,d_H,106,H_on_H,H_on_C,1e-20,100,-0.040101618614102996,0.017021846872465662,0.07868585073235379
+NoHeredityModule,No structural constraints,relmse,d_H,107,H_on_H,H_on_C,1e-20,100,-0.041170842657926698,0.015555607614988531,0.080064512976723234
+NoHeredityModule,No structural constraints,relmse,d_H,108,H_on_H,H_on_C,1e-20,100,-0.036709701246552484,0.010583531634825505,0.078384546284329559
+NoHeredityModule,No structural constraints,relmse,d_H,109,H_on_H,H_on_C,1e-20,100,-0.037641070321170922,0.016273473086856338,0.075282461421605884
+NoHeredityModule,No structural constraints,relmse,d_H,110,H_on_H,H_on_C,1e-20,100,-0.03796340637203377,0.011847517300513033,0.073952131232051022
+NoHeredityModule,No structural constraints,relmse,d_H,111,H_on_H,H_on_C,1e-20,100,-0.041520831755552656,0.011097730569114894,0.069069234879988617
+NoHeredityModule,No structural constraints,relmse,d_H,112,H_on_H,H_on_C,1e-20,100,-0.039874486244925844,0.0059652581520106551,0.067319688909232678
+NoHeredityModule,No structural constraints,relmse,d_H,113,H_on_H,H_on_C,1e-20,100,-0.040090991885663563,0.0050995833609182029,0.066716628377135878
+NoHeredityModule,No structural constraints,relmse,d_H,114,H_on_H,H_on_C,1e-20,100,-0.040968799846536008,0.012726716331078691,0.067430219677523828
+NoHeredityModule,No structural constraints,relmse,d_H,115,H_on_H,H_on_C,1e-20,100,-0.045710433482219148,0.0042129377720927508,0.060973406712022893
+NoHeredityModule,No structural constraints,relmse,d_H,116,H_on_H,H_on_C,1e-20,100,-0.035292424518311938,0.010663349070969552,0.044630188636888501
+NoHeredityModule,No structural constraints,relmse,d_H,117,H_on_H,H_on_C,1e-20,100,-0.033687129437135699,0.0039602523032788994,0.051356845497336989
+NoHeredityModule,No structural constraints,relmse,d_H,118,H_on_H,H_on_C,1e-20,100,-0.031572879699648393,0.0032964111233582116,0.051432628230581701
+NoHeredityModule,No structural constraints,relmse,d_H,119,H_on_H,H_on_C,1e-20,100,-0.02904498047955606,0.0021441235536139303,0.047354520039837755
+NoHeredityModule,No structural constraints,relmse,d_H,120,H_on_H,H_on_C,1e-20,100,-0.028740956372816484,0.0088705196191156688,0.052481929540688643
+NoHistory,No history,mean_standardized_error,r_H,30,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,31,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,32,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,33,H_on_H,C_on_H,1e-20,100,0,0,0.21493579335928581
+NoHistory,No history,mean_standardized_error,r_H,34,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,35,H_on_H,C_on_H,1e-20,100,0,0,0.50056357964546006
+NoHistory,No history,mean_standardized_error,r_H,36,H_on_H,C_on_H,1e-20,100,0,0,0.19341121223273183
+NoHistory,No history,mean_standardized_error,r_H,37,H_on_H,C_on_H,1e-20,100,0,0,0.30286970000081231
+NoHistory,No history,mean_standardized_error,r_H,38,H_on_H,C_on_H,1e-20,100,0,0,0.1855783574809563
+NoHistory,No history,mean_standardized_error,r_H,39,H_on_H,C_on_H,1e-20,100,0,0,0.097878991437939988
+NoHistory,No history,mean_standardized_error,r_H,40,H_on_H,C_on_H,1e-20,100,0,0,0.01635259819534185
+NoHistory,No history,mean_standardized_error,r_H,41,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,42,H_on_H,C_on_H,1e-20,100,0,0,0.34658082414989644
+NoHistory,No history,mean_standardized_error,r_H,43,H_on_H,C_on_H,1e-20,100,0,0,0.15517582504242178
+NoHistory,No history,mean_standardized_error,r_H,44,H_on_H,C_on_H,1e-20,100,0,0,0.31491665837301891
+NoHistory,No history,mean_standardized_error,r_H,45,H_on_H,C_on_H,1e-20,100,0,0,0.068938469858483398
+NoHistory,No history,mean_standardized_error,r_H,46,H_on_H,C_on_H,1e-20,100,0,0,0.0020090848889960933
+NoHistory,No history,mean_standardized_error,r_H,47,H_on_H,C_on_H,1e-20,100,0,0,0.14604536826348813
+NoHistory,No history,mean_standardized_error,r_H,48,H_on_H,C_on_H,1e-20,100,0,0,0.18647712283210616
+NoHistory,No history,mean_standardized_error,r_H,49,H_on_H,C_on_H,1e-20,100,0,0,0.19471650193451928
+NoHistory,No history,mean_standardized_error,r_H,50,H_on_H,C_on_H,1e-20,100,0,0,0.34237115158403586
+NoHistory,No history,mean_standardized_error,r_H,51,H_on_H,C_on_H,1e-20,100,0,0,0.21192668290753341
+NoHistory,No history,mean_standardized_error,r_H,52,H_on_H,C_on_H,1e-20,100,0,0,0.54604923188815224
+NoHistory,No history,mean_standardized_error,r_H,53,H_on_H,C_on_H,1e-20,100,0,0,0.40973446869954044
+NoHistory,No history,mean_standardized_error,r_H,54,H_on_H,C_on_H,1e-20,100,0,0,0.37753848350847163
+NoHistory,No history,mean_standardized_error,r_H,55,H_on_H,C_on_H,1e-20,100,0,0,0.47296182161476041
+NoHistory,No history,mean_standardized_error,r_H,56,H_on_H,C_on_H,1e-20,100,0,0,0.38582924987623923
+NoHistory,No history,mean_standardized_error,r_H,57,H_on_H,C_on_H,1e-20,100,0,0,0.27295582391400064
+NoHistory,No history,mean_standardized_error,r_H,58,H_on_H,C_on_H,1e-20,100,0,0,0.66201424429558131
+NoHistory,No history,mean_standardized_error,r_H,59,H_on_H,C_on_H,1e-20,100,0,0,0.62840609499885236
+NoHistory,No history,mean_standardized_error,r_H,60,H_on_H,C_on_H,1e-20,100,0,0,0.74202179723850314
+NoHistory,No history,mean_standardized_error,r_H,61,H_on_H,C_on_H,1e-20,100,0,0,0.76134927851070933
+NoHistory,No history,mean_standardized_error,r_H,62,H_on_H,C_on_H,1e-20,100,0,0,0.89226817882318243
+NoHistory,No history,mean_standardized_error,r_H,63,H_on_H,C_on_H,1e-20,100,0,0,0.63929008837515089
+NoHistory,No history,mean_standardized_error,r_H,64,H_on_H,C_on_H,1e-20,100,0,0,0.55443773368282523
+NoHistory,No history,mean_standardized_error,r_H,65,H_on_H,C_on_H,1e-20,100,0,0.1626263104336223,0.89057574624846658
+NoHistory,No history,mean_standardized_error,r_H,66,H_on_H,C_on_H,1e-20,100,0,0.23818294885964986,0.95627960036435078
+NoHistory,No history,mean_standardized_error,r_H,67,H_on_H,C_on_H,1e-20,100,0,0.013750004063087129,0.95201836095896353
+NoHistory,No history,mean_standardized_error,r_H,68,H_on_H,C_on_H,1e-20,100,0,0.031435888923208255,0.82442649499708576
+NoHistory,No history,mean_standardized_error,r_H,69,H_on_H,C_on_H,1e-20,100,0,0.1479980876047764,1.1303610162932967
+NoHistory,No history,mean_standardized_error,r_H,70,H_on_H,C_on_H,1e-20,100,0,0.14286666791398295,1.1360716757519724
+NoHistory,No history,mean_standardized_error,r_H,71,H_on_H,C_on_H,1e-20,100,0,0.24732515582930059,1.1533680982694388
+NoHistory,No history,mean_standardized_error,r_H,72,H_on_H,C_on_H,1e-20,100,0,0,0.9089328308450324
+NoHistory,No history,mean_standardized_error,r_H,73,H_on_H,C_on_H,1e-20,100,0,0,0.83809703354319864
+NoHistory,No history,mean_standardized_error,r_H,74,H_on_H,C_on_H,1e-20,100,0,0,1.1394000923414207
+NoHistory,No history,mean_standardized_error,r_H,75,H_on_H,C_on_H,1e-20,100,0,0.0088311589807887891,1.1819598238401254
+NoHistory,No history,mean_standardized_error,r_H,76,H_on_H,C_on_H,1e-20,100,0,0,0.95710372024268175
+NoHistory,No history,mean_standardized_error,r_H,77,H_on_H,C_on_H,1e-20,100,0,0,1.1635672123343155
+NoHistory,No history,mean_standardized_error,r_H,78,H_on_H,C_on_H,1e-20,100,0,0,1.117154560150438
+NoHistory,No history,mean_standardized_error,r_H,79,H_on_H,C_on_H,1e-20,100,0,0,0.85946991628465519
+NoHistory,No history,mean_standardized_error,r_H,80,H_on_H,C_on_H,1e-20,100,0,0,0.80983828744377395
+NoHistory,No history,mean_standardized_error,r_H,81,H_on_H,C_on_H,1e-20,100,0,0,0.69303518143153187
+NoHistory,No history,mean_standardized_error,r_H,82,H_on_H,C_on_H,1e-20,100,0,0,1.0185734450728106
+NoHistory,No history,mean_standardized_error,r_H,83,H_on_H,C_on_H,1e-20,100,0,0,0.5143694057334669
+NoHistory,No history,mean_standardized_error,r_H,84,H_on_H,C_on_H,1e-20,100,0,0,0.88993285398316824
+NoHistory,No history,mean_standardized_error,r_H,85,H_on_H,C_on_H,1e-20,100,0,0,0.54998339478214464
+NoHistory,No history,mean_standardized_error,r_H,86,H_on_H,C_on_H,1e-20,100,0,0,0.19512515603915914
+NoHistory,No history,mean_standardized_error,r_H,87,H_on_H,C_on_H,1e-20,100,0,0,0.37499451017898244
+NoHistory,No history,mean_standardized_error,r_H,88,H_on_H,C_on_H,1e-20,100,0,0,0.22166122934992383
+NoHistory,No history,mean_standardized_error,r_H,89,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,90,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,91,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,92,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,93,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,94,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,95,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,96,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,97,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,98,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,99,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,100,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,101,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,102,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,103,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,104,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,105,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,106,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,107,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,108,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,109,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,110,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,111,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,112,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,113,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,114,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,115,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,116,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,117,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,118,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,119,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,r_H,120,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,d_H,31,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,d_H,32,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,d_H,33,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,mean_standardized_error,d_H,34,H_on_H,H_on_C,1e-20,100,-0.054376679457606214,0,0
+NoHistory,No history,mean_standardized_error,d_H,35,H_on_H,H_on_C,1e-20,100,-0.026415987008556463,0,0.046693075507366566
+NoHistory,No history,mean_standardized_error,d_H,36,H_on_H,H_on_C,1e-20,100,-0.14603230905893216,0,0.089775525233797282
+NoHistory,No history,mean_standardized_error,d_H,37,H_on_H,H_on_C,1e-20,100,-0.2469300004418491,0,0.093243558590189235
+NoHistory,No history,mean_standardized_error,d_H,38,H_on_H,H_on_C,1e-20,100,-0.19186615559247855,0,0.25744660136601699
+NoHistory,No history,mean_standardized_error,d_H,39,H_on_H,H_on_C,1e-20,100,-0.13710818577796757,0.0026362270584999736,0.25403337788842256
+NoHistory,No history,mean_standardized_error,d_H,40,H_on_H,H_on_C,1e-20,100,-0.063577716751365254,0.06422776163994115,0.40254501728523678
+NoHistory,No history,mean_standardized_error,d_H,41,H_on_H,H_on_C,1e-20,100,-0.081736058942114831,0.1085691776955916,0.61102374782608637
+NoHistory,No history,mean_standardized_error,d_H,42,H_on_H,H_on_C,1e-20,100,-0.12697446517776312,0.12581973000938129,0.6044164604208131
+NoHistory,No history,mean_standardized_error,d_H,43,H_on_H,H_on_C,1e-20,100,-0.20586898809535586,0.06352559126172852,0.51685320169446947
+NoHistory,No history,mean_standardized_error,d_H,44,H_on_H,H_on_C,1e-20,100,-0.3583372654765829,0.035162841281672463,0.49092987218837958
+NoHistory,No history,mean_standardized_error,d_H,45,H_on_H,H_on_C,1e-20,100,-0.34593675720908501,0.10887348145628739,0.54601686535514604
+NoHistory,No history,mean_standardized_error,d_H,46,H_on_H,H_on_C,1e-20,100,-0.38762236236737901,0.093901331869120641,0.50599195160571053
+NoHistory,No history,mean_standardized_error,d_H,47,H_on_H,H_on_C,1e-20,100,-0.37711401617985185,0.066958088927524306,0.55871991400403176
+NoHistory,No history,mean_standardized_error,d_H,48,H_on_H,H_on_C,1e-20,100,-0.29319625644282354,0.062772716473099566,0.62520584819365466
+NoHistory,No history,mean_standardized_error,d_H,49,H_on_H,H_on_C,1e-20,100,-0.15750659029282055,0.13509382231929012,0.62300943250762586
+NoHistory,No history,mean_standardized_error,d_H,50,H_on_H,H_on_C,1e-20,100,-0.28201801838657325,0.074109934371101582,0.5067623417248609
+NoHistory,No history,mean_standardized_error,d_H,51,H_on_H,H_on_C,1e-20,100,-0.23628029360389879,0.11737080701837166,0.62651306867770051
+NoHistory,No history,mean_standardized_error,d_H,52,H_on_H,H_on_C,1e-20,100,-0.18693210305310937,0.083808607554287207,0.59185894307451703
+NoHistory,No history,mean_standardized_error,d_H,53,H_on_H,H_on_C,1e-20,100,-0.18142002234607357,0.16988573795688455,0.62286058432756941
+NoHistory,No history,mean_standardized_error,d_H,54,H_on_H,H_on_C,1e-20,100,-0.12582634681282656,0.10197476190851162,0.59272447681703622
+NoHistory,No history,mean_standardized_error,d_H,55,H_on_H,H_on_C,1e-20,100,-0.32309372877973919,0.074721015000269952,0.5871623016219093
+NoHistory,No history,mean_standardized_error,d_H,56,H_on_H,H_on_C,1e-20,100,-0.38376101609889235,0.090152225488983939,0.58014016424880466
+NoHistory,No history,mean_standardized_error,d_H,57,H_on_H,H_on_C,1e-20,100,-0.36538256215399534,0.13703569063855525,0.80744498994016578
+NoHistory,No history,mean_standardized_error,d_H,58,H_on_H,H_on_C,1e-20,100,-0.37629142364654966,0.12833985461303032,0.7248705768461956
+NoHistory,No history,mean_standardized_error,d_H,59,H_on_H,H_on_C,1e-20,100,-0.39042359145498051,0.094310211542530276,0.72295804208498615
+NoHistory,No history,mean_standardized_error,d_H,60,H_on_H,H_on_C,1e-20,100,-0.3530302556752668,0.070340812634663852,0.64203490217078929
+NoHistory,No history,mean_standardized_error,d_H,61,H_on_H,H_on_C,1e-20,100,-0.51295529967714903,0.016255181494813531,0.62085297269910855
+NoHistory,No history,mean_standardized_error,d_H,62,H_on_H,H_on_C,1e-20,100,-0.53569566681049263,0.036897254345876984,0.63888367038119176
+NoHistory,No history,mean_standardized_error,d_H,63,H_on_H,H_on_C,1e-20,100,-0.69350271097436145,0.060971182255668666,0.64969430688868379
+NoHistory,No history,mean_standardized_error,d_H,64,H_on_H,H_on_C,1e-20,100,-0.70860544566699069,-0.0057798199712975062,0.53098734339697717
+NoHistory,No history,mean_standardized_error,d_H,65,H_on_H,H_on_C,1e-20,100,-0.60047010442153959,-0.019194287473857985,0.57188119753407785
+NoHistory,No history,mean_standardized_error,d_H,66,H_on_H,H_on_C,1e-20,100,-0.47259327656820171,0.0073293397751044154,0.6348247783715899
+NoHistory,No history,mean_standardized_error,d_H,67,H_on_H,H_on_C,1e-20,100,-0.48473856985007391,0.048821377644935993,0.60757576769450039
+NoHistory,No history,mean_standardized_error,d_H,68,H_on_H,H_on_C,1e-20,100,-0.53824692434094934,0.13069824573339783,0.79049783745431923
+NoHistory,No history,mean_standardized_error,d_H,69,H_on_H,H_on_C,1e-20,100,-0.49867099115608648,0.12912443401973261,0.75564986388144262
+NoHistory,No history,mean_standardized_error,d_H,70,H_on_H,H_on_C,1e-20,100,-0.44533505011777508,0.034744299707715198,0.56674247009998968
+NoHistory,No history,mean_standardized_error,d_H,71,H_on_H,H_on_C,1e-20,100,-0.48030094583820837,0.12079042402580753,0.57844704756291199
+NoHistory,No history,mean_standardized_error,d_H,72,H_on_H,H_on_C,1e-20,100,-0.44559028899485087,0.16479642655381066,0.60152564267666686
+NoHistory,No history,mean_standardized_error,d_H,73,H_on_H,H_on_C,1e-20,100,-0.50713208712417379,0.11196975072172233,0.57039185578589646
+NoHistory,No history,mean_standardized_error,d_H,74,H_on_H,H_on_C,1e-20,100,-0.37139346189356726,0.07432674760304292,0.60649788214351141
+NoHistory,No history,mean_standardized_error,d_H,75,H_on_H,H_on_C,1e-20,100,-0.39988461347039062,0.086787636646318056,0.65789585606284207
+NoHistory,No history,mean_standardized_error,d_H,76,H_on_H,H_on_C,1e-20,100,-0.46750782837242233,0.033415719173197189,0.4955106264052882
+NoHistory,No history,mean_standardized_error,d_H,77,H_on_H,H_on_C,1e-20,100,-0.49713774077999862,0.02247552777989803,0.48302129302937558
+NoHistory,No history,mean_standardized_error,d_H,78,H_on_H,H_on_C,1e-20,100,-0.50502493719339614,0.00022702608864388907,0.39521820426641696
+NoHistory,No history,mean_standardized_error,d_H,79,H_on_H,H_on_C,1e-20,100,-0.45909666494567491,-0.012950245525616744,0.33381017692897519
+NoHistory,No history,mean_standardized_error,d_H,80,H_on_H,H_on_C,1e-20,100,-0.45853225769462824,-0.081213815299415959,0.21063579412341937
+NoHistory,No history,mean_standardized_error,d_H,81,H_on_H,H_on_C,1e-20,100,-0.39582732365831164,-0.057550850259661779,0.18520551332405666
+NoHistory,No history,mean_standardized_error,d_H,82,H_on_H,H_on_C,1e-20,100,-0.35100837593435275,-0.046401872719590731,0.22124997272218061
+NoHistory,No history,mean_standardized_error,d_H,83,H_on_H,H_on_C,1e-20,100,-0.34530053982175546,-0.049606010269394929,0.24981755854841659
+NoHistory,No history,mean_standardized_error,d_H,84,H_on_H,H_on_C,1e-20,100,-0.34617830353066359,-0.041734718913044588,0.22098833509056415
+NoHistory,No history,mean_standardized_error,d_H,85,H_on_H,H_on_C,1e-20,100,-0.29401224602679021,-0.043880097716976429,0.14001004001044648
+NoHistory,No history,mean_standardized_error,d_H,86,H_on_H,H_on_C,1e-20,100,-0.32434351403514272,-0.032299633421561946,0.17353262634698541
+NoHistory,No history,mean_standardized_error,d_H,87,H_on_H,H_on_C,1e-20,100,-0.29563615470895788,-0.037149921794755514,0.18053397733235887
+NoHistory,No history,mean_standardized_error,d_H,88,H_on_H,H_on_C,1e-20,100,-0.275862239665146,-0.034850386459638116,0.17503832671569697
+NoHistory,No history,mean_standardized_error,d_H,89,H_on_H,H_on_C,1e-20,100,-0.29984531033240058,-0.081994122709284856,0.15347395399514263
+NoHistory,No history,mean_standardized_error,d_H,90,H_on_H,H_on_C,1e-20,100,-0.29004417548885231,-0.036895187442959276,0.15069160686248328
+NoHistory,No history,mean_standardized_error,d_H,91,H_on_H,H_on_C,1e-20,100,-0.26282999991856881,-0.03247268912076251,0.18913676536217694
+NoHistory,No history,mean_standardized_error,d_H,92,H_on_H,H_on_C,1e-20,100,-0.32301543349175144,-0.04946931107874164,0.15955939841597022
+NoHistory,No history,mean_standardized_error,d_H,93,H_on_H,H_on_C,1e-20,100,-0.30932421975376023,-0.013163277337285173,0.19730299959334952
+NoHistory,No history,mean_standardized_error,d_H,94,H_on_H,H_on_C,1e-20,100,-0.3623927010091903,1.1939782496028783e-10,0.21857962314579304
+NoHistory,No history,mean_standardized_error,d_H,95,H_on_H,H_on_C,1e-20,100,-0.26828906828142385,-0.014654771028107749,0.18259984936481333
+NoHistory,No history,mean_standardized_error,d_H,96,H_on_H,H_on_C,1e-20,100,-0.28028182962490944,-0.0060773582123587744,0.20488256719987197
+NoHistory,No history,mean_standardized_error,d_H,97,H_on_H,H_on_C,1e-20,100,-0.28442773795542409,-0.0025279434583382887,0.24449598597847855
+NoHistory,No history,mean_standardized_error,d_H,98,H_on_H,H_on_C,1e-20,100,-0.21993554542428595,-0.00087071674015337663,0.27387537509295301
+NoHistory,No history,mean_standardized_error,d_H,99,H_on_H,H_on_C,1e-20,100,-0.26904147086893526,-0.017960068997604051,0.30677178905314761
+NoHistory,No history,mean_standardized_error,d_H,100,H_on_H,H_on_C,1e-20,100,-0.16924349076151479,-0.0081448912278712093,0.32904502945581204
+NoHistory,No history,mean_standardized_error,d_H,101,H_on_H,H_on_C,1e-20,100,-0.17647943776343022,0.014750463004325809,0.23175757578733913
+NoHistory,No history,mean_standardized_error,d_H,102,H_on_H,H_on_C,1e-20,100,-0.19519842295324286,-0.000722328891431534,0.23904470919601106
+NoHistory,No history,mean_standardized_error,d_H,103,H_on_H,H_on_C,1e-20,100,-0.1598505797787626,0.028488904246450897,0.25518729108784566
+NoHistory,No history,mean_standardized_error,d_H,104,H_on_H,H_on_C,1e-20,100,-0.19508311964955261,0.030508057789018661,0.25743096866061577
+NoHistory,No history,mean_standardized_error,d_H,105,H_on_H,H_on_C,1e-20,100,-0.17219741107287301,0.024319594071579687,0.29220639673736626
+NoHistory,No history,mean_standardized_error,d_H,106,H_on_H,H_on_C,1e-20,100,-0.15967400022564382,0.032778404610664058,0.28452881874304659
+NoHistory,No history,mean_standardized_error,d_H,107,H_on_H,H_on_C,1e-20,100,-0.19014327138736076,6.127987006721014e-12,0.26284168638343708
+NoHistory,No history,mean_standardized_error,d_H,108,H_on_H,H_on_C,1e-20,100,-0.20883178648863998,0.036556514483832903,0.24628061714589733
+NoHistory,No history,mean_standardized_error,d_H,109,H_on_H,H_on_C,1e-20,100,-0.18892233045258333,0.0089946599982848596,0.25714435354276333
+NoHistory,No history,mean_standardized_error,d_H,110,H_on_H,H_on_C,1e-20,100,-0.179112780217352,-0.0010570094101121086,0.28415638888128103
+NoHistory,No history,mean_standardized_error,d_H,111,H_on_H,H_on_C,1e-20,100,-0.18805780412979778,-0.0013760887023841484,0.30255824715879376
+NoHistory,No history,mean_standardized_error,d_H,112,H_on_H,H_on_C,1e-20,100,-0.21384412806109609,2.0933921263122102e-11,0.31847620292413481
+NoHistory,No history,mean_standardized_error,d_H,113,H_on_H,H_on_C,1e-20,100,-0.24921414061692149,0.041545905037965181,0.32890343122167409
+NoHistory,No history,mean_standardized_error,d_H,114,H_on_H,H_on_C,1e-20,100,-0.22175495910481047,0.046295413902365912,0.2880626707721754
+NoHistory,No history,mean_standardized_error,d_H,115,H_on_H,H_on_C,1e-20,100,-0.24342942884161856,0.041705682961993062,0.28140317685171756
+NoHistory,No history,mean_standardized_error,d_H,116,H_on_H,H_on_C,1e-20,100,-0.21744359381269285,0.0080592845717557537,0.28827465323630785
+NoHistory,No history,mean_standardized_error,d_H,117,H_on_H,H_on_C,1e-20,100,-0.18288235712650924,0.073621899336472563,0.34617667587737899
+NoHistory,No history,mean_standardized_error,d_H,118,H_on_H,H_on_C,1e-20,100,-0.22196598013498736,0.030526847429207749,0.27442096898995705
+NoHistory,No history,mean_standardized_error,d_H,119,H_on_H,H_on_C,1e-20,100,-0.22604055043710236,0.073829705071922991,0.28322065952182274
+NoHistory,No history,mean_standardized_error,d_H,120,H_on_H,H_on_C,1e-20,100,-0.22737134839818007,0.055925241352854815,0.2752657059205843
+NoHistory,No history,std_relative_error,r_H,30,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,31,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,32,H_on_H,C_on_H,1e-20,100,0,0,0.10280123863255718
+NoHistory,No history,std_relative_error,r_H,33,H_on_H,C_on_H,1e-20,100,0,0,0.52374366192158361
+NoHistory,No history,std_relative_error,r_H,34,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,35,H_on_H,C_on_H,1e-20,100,0,0,0.74942673131352611
+NoHistory,No history,std_relative_error,r_H,36,H_on_H,C_on_H,1e-20,100,0,0,0.29167743423367387
+NoHistory,No history,std_relative_error,r_H,37,H_on_H,C_on_H,1e-20,100,0,0,0.58125084755752754
+NoHistory,No history,std_relative_error,r_H,38,H_on_H,C_on_H,1e-20,100,0,0,0.30911309254645075
+NoHistory,No history,std_relative_error,r_H,39,H_on_H,C_on_H,1e-20,100,0,0,0.21735275485747452
+NoHistory,No history,std_relative_error,r_H,40,H_on_H,C_on_H,1e-20,100,0,0,0.029045511974860605
+NoHistory,No history,std_relative_error,r_H,41,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,42,H_on_H,C_on_H,1e-20,100,0,0,0.16559808844884183
+NoHistory,No history,std_relative_error,r_H,43,H_on_H,C_on_H,1e-20,100,0,0,0.48288562844275296
+NoHistory,No history,std_relative_error,r_H,44,H_on_H,C_on_H,1e-20,100,0,0,0.51289894590035889
+NoHistory,No history,std_relative_error,r_H,45,H_on_H,C_on_H,1e-20,100,0,0,0.21661797132997196
+NoHistory,No history,std_relative_error,r_H,46,H_on_H,C_on_H,1e-20,100,0,0,0.098616795906113719
+NoHistory,No history,std_relative_error,r_H,47,H_on_H,C_on_H,1e-20,100,0,0,0.091230167255955175
+NoHistory,No history,std_relative_error,r_H,48,H_on_H,C_on_H,1e-20,100,0,0,0.30180393402168826
+NoHistory,No history,std_relative_error,r_H,49,H_on_H,C_on_H,1e-20,100,0,0,0.27467378947269594
+NoHistory,No history,std_relative_error,r_H,50,H_on_H,C_on_H,1e-20,100,0,0,0.46264335095908649
+NoHistory,No history,std_relative_error,r_H,51,H_on_H,C_on_H,1e-20,100,0,0,0.25166499255743235
+NoHistory,No history,std_relative_error,r_H,52,H_on_H,C_on_H,1e-20,100,0,0,0.54625552382068365
+NoHistory,No history,std_relative_error,r_H,53,H_on_H,C_on_H,1e-20,100,0,0,0.27330718028155099
+NoHistory,No history,std_relative_error,r_H,54,H_on_H,C_on_H,1e-20,100,0,0,0.56773293351948684
+NoHistory,No history,std_relative_error,r_H,55,H_on_H,C_on_H,1e-20,100,0,0,0.66749625341586849
+NoHistory,No history,std_relative_error,r_H,56,H_on_H,C_on_H,1e-20,100,0,0,0.36606178971647063
+NoHistory,No history,std_relative_error,r_H,57,H_on_H,C_on_H,1e-20,100,0,0,0.29990712514867202
+NoHistory,No history,std_relative_error,r_H,58,H_on_H,C_on_H,1e-20,100,0,0,0.70879481376090181
+NoHistory,No history,std_relative_error,r_H,59,H_on_H,C_on_H,1e-20,100,0,0,0.57073358270938868
+NoHistory,No history,std_relative_error,r_H,60,H_on_H,C_on_H,1e-20,100,0,0,0.89032111858440799
+NoHistory,No history,std_relative_error,r_H,61,H_on_H,C_on_H,1e-20,100,0,0.12476278147886366,0.88228711702778262
+NoHistory,No history,std_relative_error,r_H,62,H_on_H,C_on_H,1e-20,100,0,0.014634948908976986,1.1101341459800285
+NoHistory,No history,std_relative_error,r_H,63,H_on_H,C_on_H,1e-20,100,0,0,0.79117097883293264
+NoHistory,No history,std_relative_error,r_H,64,H_on_H,C_on_H,1e-20,100,0,0,0.85855704903665564
+NoHistory,No history,std_relative_error,r_H,65,H_on_H,C_on_H,1e-20,100,0,0.16036257066785486,1.1105966117599033
+NoHistory,No history,std_relative_error,r_H,66,H_on_H,C_on_H,1e-20,100,0,0.44686462622230927,1.2144005040429733
+NoHistory,No history,std_relative_error,r_H,67,H_on_H,C_on_H,1e-20,100,0,0.023844188742010219,1.0519077379632078
+NoHistory,No history,std_relative_error,r_H,68,H_on_H,C_on_H,1e-20,100,0,0,1.0677330204413464
+NoHistory,No history,std_relative_error,r_H,69,H_on_H,C_on_H,1e-20,100,0,0.18881946574534059,1.0310392038474396
+NoHistory,No history,std_relative_error,r_H,70,H_on_H,C_on_H,1e-20,100,0,0.072029499087170379,1.1163066735671636
+NoHistory,No history,std_relative_error,r_H,71,H_on_H,C_on_H,1e-20,100,0,0.11473189307833542,1.2991144703192354
+NoHistory,No history,std_relative_error,r_H,72,H_on_H,C_on_H,1e-20,100,0,0,1.0691377526351629
+NoHistory,No history,std_relative_error,r_H,73,H_on_H,C_on_H,1e-20,100,0,0,1.1388990648136175
+NoHistory,No history,std_relative_error,r_H,74,H_on_H,C_on_H,1e-20,100,0,0,1.0049243250252
+NoHistory,No history,std_relative_error,r_H,75,H_on_H,C_on_H,1e-20,100,0,0.048839957584580818,1.346647609963566
+NoHistory,No history,std_relative_error,r_H,76,H_on_H,C_on_H,1e-20,100,0,0,1.0020996010168122
+NoHistory,No history,std_relative_error,r_H,77,H_on_H,C_on_H,1e-20,100,0,0,1.2144886914009621
+NoHistory,No history,std_relative_error,r_H,78,H_on_H,C_on_H,1e-20,100,0,0,1.1332767717617269
+NoHistory,No history,std_relative_error,r_H,79,H_on_H,C_on_H,1e-20,100,0,0,1.0483749541555996
+NoHistory,No history,std_relative_error,r_H,80,H_on_H,C_on_H,1e-20,100,0,0,0.73798416615399975
+NoHistory,No history,std_relative_error,r_H,81,H_on_H,C_on_H,1e-20,100,0,0,0.79309026068929855
+NoHistory,No history,std_relative_error,r_H,82,H_on_H,C_on_H,1e-20,100,0,0,1.0367068524851906
+NoHistory,No history,std_relative_error,r_H,83,H_on_H,C_on_H,1e-20,100,0,0,0.52748489880045524
+NoHistory,No history,std_relative_error,r_H,84,H_on_H,C_on_H,1e-20,100,0,0,0.8806642714714672
+NoHistory,No history,std_relative_error,r_H,85,H_on_H,C_on_H,1e-20,100,0,0,0.38264591186970764
+NoHistory,No history,std_relative_error,r_H,86,H_on_H,C_on_H,1e-20,100,0,0,0.26283898564264052
+NoHistory,No history,std_relative_error,r_H,87,H_on_H,C_on_H,1e-20,100,0,0,0.32765771221374784
+NoHistory,No history,std_relative_error,r_H,88,H_on_H,C_on_H,1e-20,100,0,0,0.29683366909785902
+NoHistory,No history,std_relative_error,r_H,89,H_on_H,C_on_H,1e-20,100,0,0,0.018494312112529054
+NoHistory,No history,std_relative_error,r_H,90,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,91,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,92,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,93,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,94,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,95,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,96,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,97,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,98,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,99,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,100,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,101,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,102,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,103,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,104,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,105,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,106,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,107,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,108,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,109,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,110,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,111,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,112,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,113,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,114,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,115,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,116,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,117,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,118,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,119,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,r_H,120,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,d_H,31,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,d_H,32,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,d_H,33,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,std_relative_error,d_H,34,H_on_H,H_on_C,1e-20,100,0,0,0.056586465929956226
+NoHistory,No history,std_relative_error,d_H,35,H_on_H,H_on_C,1e-20,100,-0.050947871603184952,0,0.067976163581313809
+NoHistory,No history,std_relative_error,d_H,36,H_on_H,H_on_C,1e-20,100,-0.15540547541080282,0,0.20741243691308892
+NoHistory,No history,std_relative_error,d_H,37,H_on_H,H_on_C,1e-20,100,-0.26409176070281881,0,0.086482541248119382
+NoHistory,No history,std_relative_error,d_H,38,H_on_H,H_on_C,1e-20,100,-0.29573944530127499,-0.033324200306284579,0.03791003991690628
+NoHistory,No history,std_relative_error,d_H,39,H_on_H,H_on_C,1e-20,100,-0.30758216820534284,-0.052411955756523687,0.089773160607526215
+NoHistory,No history,std_relative_error,d_H,40,H_on_H,H_on_C,1e-20,100,-0.23317192126512315,0,0.32648148135833799
+NoHistory,No history,std_relative_error,d_H,41,H_on_H,H_on_C,1e-20,100,-0.26885219962616869,0,0.25446166019563676
+NoHistory,No history,std_relative_error,d_H,42,H_on_H,H_on_C,1e-20,100,-0.31556688647117725,0,0.36848805303872534
+NoHistory,No history,std_relative_error,d_H,43,H_on_H,H_on_C,1e-20,100,-0.16154237317640407,0.058135926335685428,0.44346471887648808
+NoHistory,No history,std_relative_error,d_H,44,H_on_H,H_on_C,1e-20,100,-0.3840023264326145,-0.0015548736974423383,0.2632055799523878
+NoHistory,No history,std_relative_error,d_H,45,H_on_H,H_on_C,1e-20,100,-0.32748906578665171,0,0.22183588272824883
+NoHistory,No history,std_relative_error,d_H,46,H_on_H,H_on_C,1e-20,100,-0.27669837868760838,8.659739592076221e-15,0.49478414547554173
+NoHistory,No history,std_relative_error,d_H,47,H_on_H,H_on_C,1e-20,100,-0.36207672709621908,0.065097058680663178,0.36258789872876918
+NoHistory,No history,std_relative_error,d_H,48,H_on_H,H_on_C,1e-20,100,-0.33993769108288158,0.029166543009161883,0.49638161237219974
+NoHistory,No history,std_relative_error,d_H,49,H_on_H,H_on_C,1e-20,100,-0.17943982534313785,0.072355149696550214,0.4957650966368834
+NoHistory,No history,std_relative_error,d_H,50,H_on_H,H_on_C,1e-20,100,-0.36162897014039697,-0.0071365257857454178,0.48196095913044795
+NoHistory,No history,std_relative_error,d_H,51,H_on_H,H_on_C,1e-20,100,-0.33973569731181019,0.056521405107944789,0.67237697709531752
+NoHistory,No history,std_relative_error,d_H,52,H_on_H,H_on_C,1e-20,100,-0.36514688145357344,-0.011908726992670982,0.5534636001821438
+NoHistory,No history,std_relative_error,d_H,53,H_on_H,H_on_C,1e-20,100,-0.2080763858705843,0.13530322513746174,0.79138853499465256
+NoHistory,No history,std_relative_error,d_H,54,H_on_H,H_on_C,1e-20,100,-0.21908658174696105,0.078203757861936785,0.68813429309112917
+NoHistory,No history,std_relative_error,d_H,55,H_on_H,H_on_C,1e-20,100,-0.28685263612662337,0.063550470384714952,0.56700627200468756
+NoHistory,No history,std_relative_error,d_H,56,H_on_H,H_on_C,1e-20,100,-0.4454333718437512,0.076832417944524112,0.64814842119361271
+NoHistory,No history,std_relative_error,d_H,57,H_on_H,H_on_C,1e-20,100,-0.41319518664637112,0.077807163146482505,0.68218259362812506
+NoHistory,No history,std_relative_error,d_H,58,H_on_H,H_on_C,1e-20,100,-0.44834653502011035,0.0034096323955994379,0.55479985523107234
+NoHistory,No history,std_relative_error,d_H,59,H_on_H,H_on_C,1e-20,100,-0.59234559180911461,0.080146170144472784,0.73657704288144299
+NoHistory,No history,std_relative_error,d_H,60,H_on_H,H_on_C,1e-20,100,-0.5834194006742569,0.11940051541440866,0.82741889826292014
+NoHistory,No history,std_relative_error,d_H,61,H_on_H,H_on_C,1e-20,100,-0.56526356357371765,0.064919179688965878,0.68749325045977761
+NoHistory,No history,std_relative_error,d_H,62,H_on_H,H_on_C,1e-20,100,-0.61678109212540932,0.035539888903780792,0.84871993341567653
+NoHistory,No history,std_relative_error,d_H,63,H_on_H,H_on_C,1e-20,100,-0.77600265287256476,0.015487209958326531,0.7364330458153765
+NoHistory,No history,std_relative_error,d_H,64,H_on_H,H_on_C,1e-20,100,-0.4256359201611194,0.061812836664539406,0.73157196050053419
+NoHistory,No history,std_relative_error,d_H,65,H_on_H,H_on_C,1e-20,100,-0.33920816129750941,0.067472894569994946,0.6764731123297778
+NoHistory,No history,std_relative_error,d_H,66,H_on_H,H_on_C,1e-20,100,-0.29576759727381985,0.090006130367924708,0.66758626873875526
+NoHistory,No history,std_relative_error,d_H,67,H_on_H,H_on_C,1e-20,100,-0.22627731849717003,0.24286702462574539,0.69674498350262148
+NoHistory,No history,std_relative_error,d_H,68,H_on_H,H_on_C,1e-20,100,-0.27963454306327851,0.22715820816521592,0.74188582513861767
+NoHistory,No history,std_relative_error,d_H,69,H_on_H,H_on_C,1e-20,100,-0.38944267546336087,0.12201292034025046,0.82627371346140488
+NoHistory,No history,std_relative_error,d_H,70,H_on_H,H_on_C,1e-20,100,-0.27034969265457387,0.13462749414539932,0.85800105051416908
+NoHistory,No history,std_relative_error,d_H,71,H_on_H,H_on_C,1e-20,100,-0.24739617003227798,0.20300057491878065,0.79501422104020814
+NoHistory,No history,std_relative_error,d_H,72,H_on_H,H_on_C,1e-20,100,-0.35227211890687826,0.14154730730284015,0.63564024513017237
+NoHistory,No history,std_relative_error,d_H,73,H_on_H,H_on_C,1e-20,100,-0.24140484254684202,0.15428400221364935,0.69998873014244722
+NoHistory,No history,std_relative_error,d_H,74,H_on_H,H_on_C,1e-20,100,-0.21453010297774866,0.16900491035184562,0.577336406391038
+NoHistory,No history,std_relative_error,d_H,75,H_on_H,H_on_C,1e-20,100,-0.43736711269778139,0.16914649999794928,0.57750348527576401
+NoHistory,No history,std_relative_error,d_H,76,H_on_H,H_on_C,1e-20,100,-0.46630202164587153,0.012651346642974737,0.3836330287865175
+NoHistory,No history,std_relative_error,d_H,77,H_on_H,H_on_C,1e-20,100,-0.29580575271226883,0.031147700213235652,0.59532831712870637
+NoHistory,No history,std_relative_error,d_H,78,H_on_H,H_on_C,1e-20,100,-0.30609577419558232,0.057231370526762415,0.56292214277201325
+NoHistory,No history,std_relative_error,d_H,79,H_on_H,H_on_C,1e-20,100,-0.45537222156454116,-0.018254281817115192,0.3841164227295879
+NoHistory,No history,std_relative_error,d_H,80,H_on_H,H_on_C,1e-20,100,-0.2604225725510283,-0.033667992122215828,0.33021273524162664
+NoHistory,No history,std_relative_error,d_H,81,H_on_H,H_on_C,1e-20,100,-0.37897055873102614,-0.014342256362497086,0.31821743545275294
+NoHistory,No history,std_relative_error,d_H,82,H_on_H,H_on_C,1e-20,100,-0.38417284603825297,-0.02965206120385977,0.19046941471774348
+NoHistory,No history,std_relative_error,d_H,83,H_on_H,H_on_C,1e-20,100,-0.3352495580910817,-0.04363647533758197,0.28434212903015199
+NoHistory,No history,std_relative_error,d_H,84,H_on_H,H_on_C,1e-20,100,-0.37646406190840387,-0.051213481728916044,0.26686743301757199
+NoHistory,No history,std_relative_error,d_H,85,H_on_H,H_on_C,1e-20,100,-0.36407502954760185,-0.048937091272629907,0.15093706915285465
+NoHistory,No history,std_relative_error,d_H,86,H_on_H,H_on_C,1e-20,100,-0.29417600138333899,-0.069790759635380617,0.15359371943281874
+NoHistory,No history,std_relative_error,d_H,87,H_on_H,H_on_C,1e-20,100,-0.32311308473065381,-0.075982294751635315,0.20344611180770955
+NoHistory,No history,std_relative_error,d_H,88,H_on_H,H_on_C,1e-20,100,-0.38349522564637839,-0.091150997158002234,0.24369201754646852
+NoHistory,No history,std_relative_error,d_H,89,H_on_H,H_on_C,1e-20,100,-0.37448078887254299,-0.049457539981602405,0.26908499366536542
+NoHistory,No history,std_relative_error,d_H,90,H_on_H,H_on_C,1e-20,100,-0.31590566520222296,-0.072704394015849161,0.25595259642883916
+NoHistory,No history,std_relative_error,d_H,91,H_on_H,H_on_C,1e-20,100,-0.31960002247940533,-0.03018663024632362,0.2641217042247701
+NoHistory,No history,std_relative_error,d_H,92,H_on_H,H_on_C,1e-20,100,-0.26749237635994039,-0.0072438609094613859,0.27351743808219009
+NoHistory,No history,std_relative_error,d_H,93,H_on_H,H_on_C,1e-20,100,-0.28471103793307417,8.6439065025256667e-05,0.27511663286259624
+NoHistory,No history,std_relative_error,d_H,94,H_on_H,H_on_C,1e-20,100,-0.29273358487004963,-0.010638080224615987,0.28538445743444041
+NoHistory,No history,std_relative_error,d_H,95,H_on_H,H_on_C,1e-20,100,-0.31661418576551004,0.01064306505423307,0.32611168558884751
+NoHistory,No history,std_relative_error,d_H,96,H_on_H,H_on_C,1e-20,100,-0.33577412322597944,-0.033394821666769214,0.33023076905852156
+NoHistory,No history,std_relative_error,d_H,97,H_on_H,H_on_C,1e-20,100,-0.26446203114332612,-0.019726619318031435,0.2189727241621291
+NoHistory,No history,std_relative_error,d_H,98,H_on_H,H_on_C,1e-20,100,-0.32207347132040987,-0.0045995311372530878,0.31407049379750518
+NoHistory,No history,std_relative_error,d_H,99,H_on_H,H_on_C,1e-20,100,-0.2148388034445694,1.2593037723718226e-11,0.35575138366303061
+NoHistory,No history,std_relative_error,d_H,100,H_on_H,H_on_C,1e-20,100,-0.25892356061619703,0.011594000425414031,0.24397820568719264
+NoHistory,No history,std_relative_error,d_H,101,H_on_H,H_on_C,1e-20,100,-0.26646736796866999,-0.0073087801386928497,0.25308561088299397
+NoHistory,No history,std_relative_error,d_H,102,H_on_H,H_on_C,1e-20,100,-0.24756913812953996,-0.0070334659061566107,0.28608603064804994
+NoHistory,No history,std_relative_error,d_H,103,H_on_H,H_on_C,1e-20,100,-0.23834303872856899,0.020609290938145453,0.31171809783054205
+NoHistory,No history,std_relative_error,d_H,104,H_on_H,H_on_C,1e-20,100,-0.18777385175677019,-0.0040236565346853936,0.33211210741563302
+NoHistory,No history,std_relative_error,d_H,105,H_on_H,H_on_C,1e-20,100,-0.21617619655901898,-2.2183144210430328e-11,0.35222450553239004
+NoHistory,No history,std_relative_error,d_H,106,H_on_H,H_on_C,1e-20,100,-0.27869447088260424,-0.009523455364991662,0.34609666556617591
+NoHistory,No history,std_relative_error,d_H,107,H_on_H,H_on_C,1e-20,100,-0.25241862825182393,0.026331040228018576,0.4237710039905922
+NoHistory,No history,std_relative_error,d_H,108,H_on_H,H_on_C,1e-20,100,-0.25563926472326526,0.015329382635000055,0.34244817098240743
+NoHistory,No history,std_relative_error,d_H,109,H_on_H,H_on_C,1e-20,100,-0.25601968018365939,0.050966586208023745,0.32483737521915312
+NoHistory,No history,std_relative_error,d_H,110,H_on_H,H_on_C,1e-20,100,-0.26721338149869167,3.6388669855114131e-12,0.30489764681481613
+NoHistory,No history,std_relative_error,d_H,111,H_on_H,H_on_C,1e-20,100,-0.324960579207211,0.0037493651517488402,0.27275379778529207
+NoHistory,No history,std_relative_error,d_H,112,H_on_H,H_on_C,1e-20,100,-0.32286434991322555,-0.043463460407139554,0.2316100861280892
+NoHistory,No history,std_relative_error,d_H,113,H_on_H,H_on_C,1e-20,100,-0.34892479738889448,-0.068408745688767425,0.21098773308691054
+NoHistory,No history,std_relative_error,d_H,114,H_on_H,H_on_C,1e-20,100,-0.32951471387273035,-0.058781063138186873,0.18580371498520765
+NoHistory,No history,std_relative_error,d_H,115,H_on_H,H_on_C,1e-20,100,-0.33061449345176341,-0.060564103316139484,0.18982353048828515
+NoHistory,No history,std_relative_error,d_H,116,H_on_H,H_on_C,1e-20,100,-0.33078117948978125,-0.033194239586292085,0.23648398627534672
+NoHistory,No history,std_relative_error,d_H,117,H_on_H,H_on_C,1e-20,100,-0.30091269460392467,3.744693444218683e-11,0.25476882306047544
+NoHistory,No history,std_relative_error,d_H,118,H_on_H,H_on_C,1e-20,100,-0.29958573732267091,-0.016953266331025674,0.29576917741544384
+NoHistory,No history,std_relative_error,d_H,119,H_on_H,H_on_C,1e-20,100,-0.33952122356552428,-0.057224781212101394,0.31022644259595955
+NoHistory,No history,std_relative_error,d_H,120,H_on_H,H_on_C,1e-20,100,-0.33837121439439533,-0.017899708746111909,0.35502563192042014
+NoHistory,No history,relmse,r_H,30,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,31,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,32,H_on_H,C_on_H,1e-20,100,0,0,0.074642219017374056
+NoHistory,No history,relmse,r_H,33,H_on_H,C_on_H,1e-20,100,0,0,0.63504945308359573
+NoHistory,No history,relmse,r_H,34,H_on_H,C_on_H,1e-20,100,0,0,0.089558175630011283
+NoHistory,No history,relmse,r_H,35,H_on_H,C_on_H,1e-20,100,0,0,0.84046126307767732
+NoHistory,No history,relmse,r_H,36,H_on_H,C_on_H,1e-20,100,0,0,0.42432062578698226
+NoHistory,No history,relmse,r_H,37,H_on_H,C_on_H,1e-20,100,0,0,0.63668086978896643
+NoHistory,No history,relmse,r_H,38,H_on_H,C_on_H,1e-20,100,0,0,0.56307264718758399
+NoHistory,No history,relmse,r_H,39,H_on_H,C_on_H,1e-20,100,0,0,0.25020904676829703
+NoHistory,No history,relmse,r_H,40,H_on_H,C_on_H,1e-20,100,0,0,0.15404319831090635
+NoHistory,No history,relmse,r_H,41,H_on_H,C_on_H,1e-20,100,0,0,0.076714398493902713
+NoHistory,No history,relmse,r_H,42,H_on_H,C_on_H,1e-20,100,0,0,0.3973163681637808
+NoHistory,No history,relmse,r_H,43,H_on_H,C_on_H,1e-20,100,0,0,0.39308904238872366
+NoHistory,No history,relmse,r_H,44,H_on_H,C_on_H,1e-20,100,0,0,0.6702686625672909
+NoHistory,No history,relmse,r_H,45,H_on_H,C_on_H,1e-20,100,0,0,0.30645631863224609
+NoHistory,No history,relmse,r_H,46,H_on_H,C_on_H,1e-20,100,0,0,0.38303274279662713
+NoHistory,No history,relmse,r_H,47,H_on_H,C_on_H,1e-20,100,0,0,0.46475423348618738
+NoHistory,No history,relmse,r_H,48,H_on_H,C_on_H,1e-20,100,0,0,0.41612679821253024
+NoHistory,No history,relmse,r_H,49,H_on_H,C_on_H,1e-20,100,0,0,0.48201113271722151
+NoHistory,No history,relmse,r_H,50,H_on_H,C_on_H,1e-20,100,0,0.0025763789761972244,0.79417286100010742
+NoHistory,No history,relmse,r_H,51,H_on_H,C_on_H,1e-20,100,0,0,0.47291951943162935
+NoHistory,No history,relmse,r_H,52,H_on_H,C_on_H,1e-20,100,0,0,0.92343399758167055
+NoHistory,No history,relmse,r_H,53,H_on_H,C_on_H,1e-20,100,0,0,0.71002053051514891
+NoHistory,No history,relmse,r_H,54,H_on_H,C_on_H,1e-20,100,0,0,0.84057119120950174
+NoHistory,No history,relmse,r_H,55,H_on_H,C_on_H,1e-20,100,0,0,1.0623503555215452
+NoHistory,No history,relmse,r_H,56,H_on_H,C_on_H,1e-20,100,0,0,1.0845608116131353
+NoHistory,No history,relmse,r_H,57,H_on_H,C_on_H,1e-20,100,0,0,0.81158829035133895
+NoHistory,No history,relmse,r_H,58,H_on_H,C_on_H,1e-20,100,0,0.23825872408701421,1.1385692696629985
+NoHistory,No history,relmse,r_H,59,H_on_H,C_on_H,1e-20,100,0,0.1055819102326141,1.0382280864846511
+NoHistory,No history,relmse,r_H,60,H_on_H,C_on_H,1e-20,100,0,0,1.5326590209870057
+NoHistory,No history,relmse,r_H,61,H_on_H,C_on_H,1e-20,100,0,0.30128780501713526,1.2628403784258178
+NoHistory,No history,relmse,r_H,62,H_on_H,C_on_H,1e-20,100,0,0.28458366424101444,1.8354985795300232
+NoHistory,No history,relmse,r_H,63,H_on_H,C_on_H,1e-20,100,0,0.1079241769832231,1.5757309069491381
+NoHistory,No history,relmse,r_H,64,H_on_H,C_on_H,1e-20,100,0,0.21009731303100176,1.4887432274937957
+NoHistory,No history,relmse,r_H,65,H_on_H,C_on_H,1e-20,100,0,0.63188387976180405,1.822424734987159
+NoHistory,No history,relmse,r_H,66,H_on_H,C_on_H,1e-20,100,0,0.92886852670408038,1.7405443776543874
+NoHistory,No history,relmse,r_H,67,H_on_H,C_on_H,1e-20,100,0,0.60529848139636577,1.6707222966456348
+NoHistory,No history,relmse,r_H,68,H_on_H,C_on_H,1e-20,100,0,0.32096886792560797,1.6972811416375162
+NoHistory,No history,relmse,r_H,69,H_on_H,C_on_H,1e-20,100,0,0.52075793368766088,1.7831952267285656
+NoHistory,No history,relmse,r_H,70,H_on_H,C_on_H,1e-20,100,0,0.63703173558771642,1.706549134090305
+NoHistory,No history,relmse,r_H,71,H_on_H,C_on_H,1e-20,100,0,0.48972212219162614,2.0151184510330551
+NoHistory,No history,relmse,r_H,72,H_on_H,C_on_H,1e-20,100,0,0.2679229684915474,1.8359056194468355
+NoHistory,No history,relmse,r_H,73,H_on_H,C_on_H,1e-20,100,0,0,1.8839175189477317
+NoHistory,No history,relmse,r_H,74,H_on_H,C_on_H,1e-20,100,0,0.4377275958655078,2.1850225899326476
+NoHistory,No history,relmse,r_H,75,H_on_H,C_on_H,1e-20,100,0,0.65454043669256712,2.2357024989771634
+NoHistory,No history,relmse,r_H,76,H_on_H,C_on_H,1e-20,100,0,0.22689057999378948,1.9668962999153721
+NoHistory,No history,relmse,r_H,77,H_on_H,C_on_H,1e-20,100,0,0.27428141081086688,2.2739772763909594
+NoHistory,No history,relmse,r_H,78,H_on_H,C_on_H,1e-20,100,0,0.1788669808562684,2.1638810179858585
+NoHistory,No history,relmse,r_H,79,H_on_H,C_on_H,1e-20,100,0,0,1.7299046441724157
+NoHistory,No history,relmse,r_H,80,H_on_H,C_on_H,1e-20,100,0,0,1.6129582145947248
+NoHistory,No history,relmse,r_H,81,H_on_H,C_on_H,1e-20,100,0,0,2.1030673529674537
+NoHistory,No history,relmse,r_H,82,H_on_H,C_on_H,1e-20,100,0,0,2.1867711541304939
+NoHistory,No history,relmse,r_H,83,H_on_H,C_on_H,1e-20,100,0,0,1.4785490470828211
+NoHistory,No history,relmse,r_H,84,H_on_H,C_on_H,1e-20,100,0,0,2.1038138917187381
+NoHistory,No history,relmse,r_H,85,H_on_H,C_on_H,1e-20,100,0,0,1.6586470594006586
+NoHistory,No history,relmse,r_H,86,H_on_H,C_on_H,1e-20,100,0,0,1.4560488183928111
+NoHistory,No history,relmse,r_H,87,H_on_H,C_on_H,1e-20,100,0,0,0.9573318871470291
+NoHistory,No history,relmse,r_H,88,H_on_H,C_on_H,1e-20,100,0,0,0.82214005895542508
+NoHistory,No history,relmse,r_H,89,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,90,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,91,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,92,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,93,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,94,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,95,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,96,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,97,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,98,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,99,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,100,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,101,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,102,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,103,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,104,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,105,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,106,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,107,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,108,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,109,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,110,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,111,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,112,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,113,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,114,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,115,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,116,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,117,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,118,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,119,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,r_H,120,H_on_H,C_on_H,1e-20,100,0,0,0
+NoHistory,No history,relmse,d_H,30,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,relmse,d_H,31,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,relmse,d_H,32,H_on_H,H_on_C,1e-20,100,0,0,0
+NoHistory,No history,relmse,d_H,33,H_on_H,H_on_C,1e-20,100,0,0,0.00090448622197330381
+NoHistory,No history,relmse,d_H,34,H_on_H,H_on_C,1e-20,100,-0.0044560849298312943,0,0
+NoHistory,No history,relmse,d_H,35,H_on_H,H_on_C,1e-20,100,-0.027043643697322761,0,0
+NoHistory,No history,relmse,d_H,36,H_on_H,H_on_C,1e-20,100,-0.027664375116312867,0,0.012391116471444918
+NoHistory,No history,relmse,d_H,37,H_on_H,H_on_C,1e-20,100,-0.029036161885744982,0,0.03462636556543347
+NoHistory,No history,relmse,d_H,38,H_on_H,H_on_C,1e-20,100,-0.020099744501101913,0,0.0443567742225493
+NoHistory,No history,relmse,d_H,39,H_on_H,H_on_C,1e-20,100,-0.048846014107133906,0,0.064584692480772254
+NoHistory,No history,relmse,d_H,40,H_on_H,H_on_C,1e-20,100,-0.013272811288470965,0.010075680405509102,0.13947540328910074
+NoHistory,No history,relmse,d_H,41,H_on_H,H_on_C,1e-20,100,-0.050647509428043636,0.0053460099918767323,0.18076948199050519
+NoHistory,No history,relmse,d_H,42,H_on_H,H_on_C,1e-20,100,-0.058133087805044392,0.011715146477878413,0.18611086753908102
+NoHistory,No history,relmse,d_H,43,H_on_H,H_on_C,1e-20,100,-0.034120501873995623,0.00076139758605797692,0.21674806811365438
+NoHistory,No history,relmse,d_H,44,H_on_H,H_on_C,1e-20,100,-0.11381337350921988,-0.0010936143971974621,0.3237511248089664
+NoHistory,No history,relmse,d_H,45,H_on_H,H_on_C,1e-20,100,-0.12210035438087369,-0.0042387883905217194,0.28398924340817572
+NoHistory,No history,relmse,d_H,46,H_on_H,H_on_C,1e-20,100,-0.10292893552459681,0.0062305148138575017,0.53478245761035348
+NoHistory,No history,relmse,d_H,47,H_on_H,H_on_C,1e-20,100,-0.30828316184003168,0.0085964637542034206,0.73830976476051979
+NoHistory,No history,relmse,d_H,48,H_on_H,H_on_C,1e-20,100,-0.10357146077085677,0.038404949728825022,0.95620639684523145
+NoHistory,No history,relmse,d_H,49,H_on_H,H_on_C,1e-20,100,-0.067712759044416537,0.033685399227583845,1.0196370630307334
+NoHistory,No history,relmse,d_H,50,H_on_H,H_on_C,1e-20,100,-0.18551837958521566,0.00087019137731392249,0.84227655054200412
+NoHistory,No history,relmse,d_H,51,H_on_H,H_on_C,1e-20,100,-0.17841653300310711,0.012729730370526049,1.0441743310378544
+NoHistory,No history,relmse,d_H,52,H_on_H,H_on_C,1e-20,100,-0.16052951996093001,0.0028092221528261963,0.93820017272321576
+NoHistory,No history,relmse,d_H,53,H_on_H,H_on_C,1e-20,100,-0.17662003102565094,0.015298101816424214,1.0622766314582299
+NoHistory,No history,relmse,d_H,54,H_on_H,H_on_C,1e-20,100,-0.14377011892243885,0.01485249789799914,0.940088559549622
+NoHistory,No history,relmse,d_H,55,H_on_H,H_on_C,1e-20,100,-0.17189040844710879,0.02239261608427956,0.90160689053417242
+NoHistory,No history,relmse,d_H,56,H_on_H,H_on_C,1e-20,100,-0.31512327612591151,0.029833996789885298,0.99339716667586164
+NoHistory,No history,relmse,d_H,57,H_on_H,H_on_C,1e-20,100,-0.27574774412804226,0.040958931938165577,1.1493935120921603
+NoHistory,No history,relmse,d_H,58,H_on_H,H_on_C,1e-20,100,-0.24893838759197939,0.030562069858951268,1.0304452361262522
+NoHistory,No history,relmse,d_H,59,H_on_H,H_on_C,1e-20,100,-0.27996443087655742,0.02275568138220363,1.0204748589678143
+NoHistory,No history,relmse,d_H,60,H_on_H,H_on_C,1e-20,100,-0.30468934997309705,0.039691705039128333,1.3233083194161306
+NoHistory,No history,relmse,d_H,61,H_on_H,H_on_C,1e-20,100,-0.46651634184660373,0.010917524183791105,1.2110636450611159
+NoHistory,No history,relmse,d_H,62,H_on_H,H_on_C,1e-20,100,-0.6663783287531222,-0.019617120036198532,1.2290584390516159
+NoHistory,No history,relmse,d_H,63,H_on_H,H_on_C,1e-20,100,-0.86559241654987862,0.0056052085572555477,1.2143626417059108
+NoHistory,No history,relmse,d_H,64,H_on_H,H_on_C,1e-20,100,-0.87633891571401934,-0.0026036637285933306,1.1768477344685713
+NoHistory,No history,relmse,d_H,65,H_on_H,H_on_C,1e-20,100,-0.82626701912684619,0.0311692686470324,0.95741645369207162
+NoHistory,No history,relmse,d_H,66,H_on_H,H_on_C,1e-20,100,-0.6613936157428999,0.022548694658893531,0.83565721032709717
+NoHistory,No history,relmse,d_H,67,H_on_H,H_on_C,1e-20,100,-0.23979612424851315,0.030437610026219364,0.9537773374991324
+NoHistory,No history,relmse,d_H,68,H_on_H,H_on_C,1e-20,100,-0.29717164327530421,0.044448034940450576,1.1941526353945133
+NoHistory,No history,relmse,d_H,69,H_on_H,H_on_C,1e-20,100,-0.25055407846459177,0.043928334698079219,1.2929803874527332
+NoHistory,No history,relmse,d_H,70,H_on_H,H_on_C,1e-20,100,-0.33324313072245437,0.075573290877507748,1.1994393796961744
+NoHistory,No history,relmse,d_H,71,H_on_H,H_on_C,1e-20,100,-0.44374176990434089,0.11062488946052307,1.2696199598240243
+NoHistory,No history,relmse,d_H,72,H_on_H,H_on_C,1e-20,100,-0.83405059200728759,0.12808246597393014,1.2697219016980708
+NoHistory,No history,relmse,d_H,73,H_on_H,H_on_C,1e-20,100,-0.79111290616835994,0.042144867184109813,1.198890137856248
+NoHistory,No history,relmse,d_H,74,H_on_H,H_on_C,1e-20,100,-0.57937773978562523,0.015829568858334753,0.95174245332014173
+NoHistory,No history,relmse,d_H,75,H_on_H,H_on_C,1e-20,100,-0.7068779298497847,0.0015284192304485522,0.87846936299637468
+NoHistory,No history,relmse,d_H,76,H_on_H,H_on_C,1e-20,100,-0.73253947474820524,-0.0031038980666950877,0.79223374353161446
+NoHistory,No history,relmse,d_H,77,H_on_H,H_on_C,1e-20,100,-0.78505566876498767,-0.0037773697309413379,0.80168284030447601
+NoHistory,No history,relmse,d_H,78,H_on_H,H_on_C,1e-20,100,-0.74618518861701721,-0.003011476280619263,0.7979867691589233
+NoHistory,No history,relmse,d_H,79,H_on_H,H_on_C,1e-20,100,-0.70811150144063983,-0.011470358876778608,0.3065564273527106
+NoHistory,No history,relmse,d_H,80,H_on_H,H_on_C,1e-20,100,-0.3181755476724204,-0.0074521951441557377,0.41174822370759045
+NoHistory,No history,relmse,d_H,81,H_on_H,H_on_C,1e-20,100,-0.44813916213341187,-0.011294476012785104,0.38984526264492159
+NoHistory,No history,relmse,d_H,82,H_on_H,H_on_C,1e-20,100,-0.43050770526854931,-0.012648007277368478,0.11370170570112204
+NoHistory,No history,relmse,d_H,83,H_on_H,H_on_C,1e-20,100,-0.16696876214257417,-0.006348210864995707,0.17458894466857289
+NoHistory,No history,relmse,d_H,84,H_on_H,H_on_C,1e-20,100,-0.14175802648917402,-0.0086842307409886743,0.076490398403321613
+NoHistory,No history,relmse,d_H,85,H_on_H,H_on_C,1e-20,100,-0.13741430574285096,-0.0083429351290922327,0.041382576205438504
+NoHistory,No history,relmse,d_H,86,H_on_H,H_on_C,1e-20,100,-0.10468559820870693,-0.0055650294261604394,0.052076636073934646
+NoHistory,No history,relmse,d_H,87,H_on_H,H_on_C,1e-20,100,-0.084722614472418467,-0.0052390477889949771,0.042624439986026275
+NoHistory,No history,relmse,d_H,88,H_on_H,H_on_C,1e-20,100,-0.086795407609566055,-0.0098679499462352993,0.037615245311184875
+NoHistory,No history,relmse,d_H,89,H_on_H,H_on_C,1e-20,100,-0.083335574869908946,-0.0072432998001286109,0.031260416993791118
+NoHistory,No history,relmse,d_H,90,H_on_H,H_on_C,1e-20,100,-0.093370347640476581,-0.0085750330498752803,0.032509129860251562
+NoHistory,No history,relmse,d_H,91,H_on_H,H_on_C,1e-20,100,-0.083468129013438697,-0.0083124641753036244,0.028943626293419733
+NoHistory,No history,relmse,d_H,92,H_on_H,H_on_C,1e-20,100,-0.082629760554707721,-0.0078767238482502222,0.038252887692784121
+NoHistory,No history,relmse,d_H,93,H_on_H,H_on_C,1e-20,100,-0.082662073104581291,-0.011616658952017911,0.030953235740998952
+NoHistory,No history,relmse,d_H,94,H_on_H,H_on_C,1e-20,100,-0.057361868232833846,-0.010140163556256354,0.043029685305566723
+NoHistory,No history,relmse,d_H,95,H_on_H,H_on_C,1e-20,100,-0.053662503739285716,-0.0071722628266073229,0.034604647963736301
+NoHistory,No history,relmse,d_H,96,H_on_H,H_on_C,1e-20,100,-0.053256121791001032,-0.011428888549154692,0.028839974984453454
+NoHistory,No history,relmse,d_H,97,H_on_H,H_on_C,1e-20,100,-0.058364543522186008,-0.0059953180666196815,0.027375720967572681
+NoHistory,No history,relmse,d_H,98,H_on_H,H_on_C,1e-20,100,-0.059184835465546204,-0.00022259020889237036,0.048704796271884732
+NoHistory,No history,relmse,d_H,99,H_on_H,H_on_C,1e-20,100,-0.059606056100501625,-0.0083058549277561511,0.043679039139079556
+NoHistory,No history,relmse,d_H,100,H_on_H,H_on_C,1e-20,100,-0.05560768758072121,-0.0090331872773585786,0.026635988961007273
+NoHistory,No history,relmse,d_H,101,H_on_H,H_on_C,1e-20,100,-0.049733385276634401,-0.0040957486295676304,0.031515622265362531
+NoHistory,No history,relmse,d_H,102,H_on_H,H_on_C,1e-20,100,-0.048458919974897707,-0.0060358996953064903,0.027060562768947971
+NoHistory,No history,relmse,d_H,103,H_on_H,H_on_C,1e-20,100,-0.046755672265918147,-0.0021672660792617648,0.034010801228710585
+NoHistory,No history,relmse,d_H,104,H_on_H,H_on_C,1e-20,100,-0.043539758329027123,-0.0043441920065063755,0.034779375399179191
+NoHistory,No history,relmse,d_H,105,H_on_H,H_on_C,1e-20,100,-0.045814306199007948,-0.001935870333773515,0.032487921473296266
+NoHistory,No history,relmse,d_H,106,H_on_H,H_on_C,1e-20,100,-0.043305395485413678,-0.0008272458305080832,0.032873137230540195
+NoHistory,No history,relmse,d_H,107,H_on_H,H_on_C,1e-20,100,-0.040278594306745186,0.00022879858954816257,0.052395402130823499
+NoHistory,No history,relmse,d_H,108,H_on_H,H_on_C,1e-20,100,-0.044042651226954721,0.00021690382113481732,0.048220833992396184
+NoHistory,No history,relmse,d_H,109,H_on_H,H_on_C,1e-20,100,-0.038812384197723038,0.00038956480701735074,0.051150773688931173
+NoHistory,No history,relmse,d_H,110,H_on_H,H_on_C,1e-20,100,-0.038328232891180924,0.0050007429000249459,0.051911316182859712
+NoHistory,No history,relmse,d_H,111,H_on_H,H_on_C,1e-20,100,-0.035157047521144902,-0.0002675892484678144,0.0439713447916803
+NoHistory,No history,relmse,d_H,112,H_on_H,H_on_C,1e-20,100,-0.041101879336437941,-0.00018104057055401412,0.03842808832220701
+NoHistory,No history,relmse,d_H,113,H_on_H,H_on_C,1e-20,100,-0.041668154614486586,-0.00021555660304040103,0.036323107682122213
+NoHistory,No history,relmse,d_H,114,H_on_H,H_on_C,1e-20,100,-0.041479063457869669,-0.00039156033516007938,0.03316199676329834
+NoHistory,No history,relmse,d_H,115,H_on_H,H_on_C,1e-20,100,-0.041580551653752629,0.00024779623778314885,0.035018442703077524
+NoHistory,No history,relmse,d_H,116,H_on_H,H_on_C,1e-20,100,-0.032413108738967633,0.0036575127043372291,0.034804953409793615
+NoHistory,No history,relmse,d_H,117,H_on_H,H_on_C,1e-20,100,-0.030540292230394783,5.3872462046911096e-12,0.031584485988325639
+NoHistory,No history,relmse,d_H,118,H_on_H,H_on_C,1e-20,100,-0.033577578928185137,-0.0016802487654397069,0.0337965444409285
+NoHistory,No history,relmse,d_H,119,H_on_H,H_on_C,1e-20,100,-0.033999941449469162,-0.0010664732838181479,0.043570213501389343
+NoHistory,No history,relmse,d_H,120,H_on_H,H_on_C,1e-20,100,-0.030766647394695701,0.00031420426935024892,0.042268819890946219

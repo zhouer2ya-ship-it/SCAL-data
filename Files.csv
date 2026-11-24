@@ -1,0 +1,44 @@
+item,file
+Figure 1,Figures/Fig1.pdf
+Figure 2,Figures/Fig2.pdf
+Figure 2 source data,Source_Data/Fig2.xlsx
+Figure 3,Figures/Fig3.pdf
+Figure 3 source data,Source_Data/Fig3.xlsx
+Figure 4,Figures/Fig4.pdf
+Figure 4 source data,Source_Data/Fig4.xlsx
+Figure 5,Figures/Fig5.pdf
+Figure 5 source data,Source_Data/Fig5.xlsx
+Figure 6,Figures/Fig6.pdf
+Figure 6 source data,Source_Data/Fig6.xlsx
+Extended Data Figure 1,Figures/ED1.pdf
+Extended Data Figure 2,Figures/ED2.pdf
+Extended Data Figure 2 source data,Source_Data/ED2.xlsx
+Extended Data Figure 3,Figures/ED3.pdf
+Extended Data Figure 3 source data,Source_Data/ED3.xlsx
+Supplementary Figure 1,Figures/FigS1.pdf
+Supplementary Figure 1 source data,Source_Data/FigS1.xlsx
+Supplementary Figure 2,Figures/FigS2.pdf
+Supplementary Figure 2 learning paths and basis diagnostics,Source_Data/FigS2.xlsx
+Supplementary Figure 2 plotted values for panels a–j,Source_Data/FigS2_Plot_Data.csv
+Supplementary Figure 3,Figures/FigS3.pdf
+Supplementary Figure 3 term frequencies and projection dictionary,Source_Data/FigS3.xlsx
+Supplementary Figure 4,Figures/FigS4.pdf
+Supplementary Figure 4 source data,Source_Data/FigS4.xlsx
+Supplementary Figure 5,Figures/FigS5.pdf
+Supplementary Figure 5 source data,Source_Data/FigS5.xlsx
+Supplementary Figure 6,Figures/FigS6.pdf
+Supplementary Figure 6 four-cell trajectories and whole-path effects,Source_Data/FigS6.xlsx
+Supplementary Figure 6 paired differences for panels a–f,Source_Data/FigS6_Paired_Differences.csv
+Supplementary Figure 7,Figures/FigS7.pdf
+Supplementary Figure 7 source data,Source_Data/FigS7.xlsx
+Figure 2 prediction-error areas by seed,Source_Data/Fig2_Areas.csv
+Figure 2 statistical comparisons,Source_Data/Fig2_Comparisons.csv
+Figure 5 reference values and predictions,Source_Data/Fig5_Predictions.npz
+Figure 6 spatial data,Source_Data/Fig6_Maps.npz
+"Supplementary Tables 1A, 1B, 2 and 3 supporting data",Source_Data/Supplementary_Tables.xlsx
+Timing summary for Supplementary Note 2,Source_Data/Timing_Summary.csv
+Timing runs by seed for Supplementary Note 2,Source_Data/Timing_By_Seed.csv
+Ishigami pooled comparisons,Source_Data/Ishigami_Pooled.csv
+Ishigami seed schedule,Source_Data/Ishigami_Seeds.csv
+Borehole coordinate comparison,Source_Data/Borehole_Coordinates.csv
+SRAM timing by iteration,Source_Data/SRAM_Timing.csv
