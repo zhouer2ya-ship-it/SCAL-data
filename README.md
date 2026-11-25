@@ -2,6 +2,11 @@
 
 [Figures](Figures/) contains the figure PDFs. [Source data](Source_Data/) contains the workbooks, CSV tables and NPZ arrays. The [file list](Files.csv) gives the files for each figure and table. ED denotes Extended Data and FigS denotes a Supplementary Figure.
 
+## Data provenance
+
+- **SRAM sense amplifier (Fig. 5).** SpreadT (北京宽温微电子科技有限公司, Beijing, China) provided the circuit simulation data for an SRAM sense amplifier designed in an advanced FinFET process. The response is the signed offset voltage, ΔV (mV).
+- **Cerebral aneurysm (Fig. 6).** The Advanced Computing and Multi-media Mechanics (ACMM) Laboratory at Peking University, led by Prof. Moubin Liu, provided the smoothed particle hydrodynamics (SPH) simulation data for the cerebral aneurysm.
+
 The plotted values for Supplementary Figures 2 and 6 are in `FigS2_Plot_Data.csv` and `FigS6_Paired_Differences.csv`. In the latter file, `control` gives the experiment key and `control_label` gives the figure label. `FigS2.xlsx` gives the underlying learning paths and basis diagnostics. `FigS6.xlsx` gives the four crossed trajectories and whole-path effects.
 
 `FigS3.xlsx` gives the projection dictionary, persistent terms by seed and history decisions by sample size.
